@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <profile name="sbt 1" modules="Spark-project">
+      <option name="compileOrder" value="JavaThenScala" />
       <parameters>
         <parameter value="-Ytasty-reader" />
       </parameters>

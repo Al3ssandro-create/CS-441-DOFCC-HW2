@@ -1,0 +1,20 @@
+00:04:25.658 [main] INFO  - Running Spark version 3.5.0
+00:04:25.658 [main] INFO  - OS info Windows 11, 10.0, amd64
+00:04:25.658 [main] INFO  - Java version 17.0.7
+00:04:26.018 [main] INFO  - ==============================================================
+00:04:26.018 [main] INFO  - No custom resources configured for spark.driver.
+00:04:26.034 [main] INFO  - ==============================================================
+00:04:26.034 [main] INFO  - Submitted application: GraphX Example
+00:04:26.049 [main] INFO  - Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+00:04:26.065 [main] INFO  - Limiting resource is cpu
+00:04:26.065 [main] INFO  - Added ResourceProfile id: 0
+00:04:26.128 [main] INFO  - Changing view acls to: aless
+00:04:26.128 [main] INFO  - Changing modify acls to: aless
+00:04:26.128 [main] INFO  - Changing view acls groups to: 
+00:04:26.128 [main] INFO  - Changing modify acls groups to: 
+00:04:26.128 [main] INFO  - SecurityManager: authentication disabled; ui acls disabled; users with view permissions: aless; groups with view permissions: EMPTY; users with modify permissions: aless; groups with modify permissions: EMPTY
+00:04:26.661 [main] INFO  - Successfully started service 'sparkDriver' on port 50536.
+00:04:26.708 [main] INFO  - Registering MapOutputTracker
+00:04:26.793 [main] INFO  - Registering BlockManagerMaster
+00:04:26.833 [main] INFO  - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+00:04:26.833 [main] INFO  - BlockManagerMasterEndpoint up

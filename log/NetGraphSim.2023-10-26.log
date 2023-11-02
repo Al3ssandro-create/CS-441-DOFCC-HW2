@@ -1,0 +1,1161 @@
+12:43:14.796 [sbt-bg-threads-1] INFO  - Running Spark version 3.5.0
+12:43:14.804 [sbt-bg-threads-1] INFO  - OS info Windows 11, 10.0, amd64
+12:43:14.804 [sbt-bg-threads-1] INFO  - Java version 21
+12:43:15.339 [sbt-bg-threads-1] INFO  - ==============================================================
+12:43:15.341 [sbt-bg-threads-1] INFO  - No custom resources configured for spark.driver.
+12:43:15.341 [sbt-bg-threads-1] INFO  - ==============================================================
+12:43:15.342 [sbt-bg-threads-1] INFO  - Submitted application: GraphX Example
+12:43:15.383 [sbt-bg-threads-1] INFO  - Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+12:43:15.411 [sbt-bg-threads-1] INFO  - Limiting resource is cpu
+12:43:15.415 [sbt-bg-threads-1] INFO  - Added ResourceProfile id: 0
+12:43:15.631 [sbt-bg-threads-1] INFO  - Changing view acls to: aless
+12:43:15.632 [sbt-bg-threads-1] INFO  - Changing modify acls to: aless
+12:43:15.632 [sbt-bg-threads-1] INFO  - Changing view acls groups to: 
+12:43:15.637 [sbt-bg-threads-1] INFO  - Changing modify acls groups to: 
+12:43:15.641 [sbt-bg-threads-1] INFO  - SecurityManager: authentication disabled; ui acls disabled; users with view permissions: aless; groups with view permissions: EMPTY; users with modify permissions: aless; groups with modify permissions: EMPTY
+12:43:16.655 [sbt-bg-threads-1] INFO  - Successfully started service 'sparkDriver' on port 57333.
+12:43:16.909 [sbt-bg-threads-1] INFO  - Registering MapOutputTracker
+12:43:17.080 [sbt-bg-threads-1] INFO  - Registering BlockManagerMaster
+12:43:17.147 [sbt-bg-threads-1] INFO  - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+12:43:17.148 [sbt-bg-threads-1] INFO  - BlockManagerMasterEndpoint up
+12:44:09.333 [sbt-bg-threads-1] INFO  - Running Spark version 3.5.0
+12:44:09.354 [sbt-bg-threads-1] INFO  - OS info Windows 11, 10.0, amd64
+12:44:09.356 [sbt-bg-threads-1] INFO  - Java version 21
+12:44:10.317 [sbt-bg-threads-1] INFO  - ==============================================================
+12:44:10.317 [sbt-bg-threads-1] INFO  - No custom resources configured for spark.driver.
+12:44:10.317 [sbt-bg-threads-1] INFO  - ==============================================================
+12:44:10.321 [sbt-bg-threads-1] INFO  - Submitted application: GraphX Example
+12:44:10.373 [sbt-bg-threads-1] INFO  - Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+12:44:10.385 [sbt-bg-threads-1] INFO  - Limiting resource is cpu
+12:44:10.387 [sbt-bg-threads-1] INFO  - Added ResourceProfile id: 0
+12:44:10.599 [sbt-bg-threads-1] INFO  - Changing view acls to: aless
+12:44:10.599 [sbt-bg-threads-1] INFO  - Changing modify acls to: aless
+12:44:10.603 [sbt-bg-threads-1] INFO  - Changing view acls groups to: 
+12:44:10.604 [sbt-bg-threads-1] INFO  - Changing modify acls groups to: 
+12:44:10.604 [sbt-bg-threads-1] INFO  - SecurityManager: authentication disabled; ui acls disabled; users with view permissions: aless; groups with view permissions: EMPTY; users with modify permissions: aless; groups with modify permissions: EMPTY
+12:44:11.492 [sbt-bg-threads-1] INFO  - Successfully started service 'sparkDriver' on port 57338.
+12:44:11.573 [sbt-bg-threads-1] INFO  - Registering MapOutputTracker
+12:44:11.709 [sbt-bg-threads-1] INFO  - Registering BlockManagerMaster
+12:44:11.775 [sbt-bg-threads-1] INFO  - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+12:44:11.779 [sbt-bg-threads-1] INFO  - BlockManagerMasterEndpoint up
+12:47:23.277 [sbt-bg-threads-1] INFO  - Running Spark version 3.5.0
+12:47:23.281 [sbt-bg-threads-1] INFO  - OS info Windows 11, 10.0, amd64
+12:47:23.285 [sbt-bg-threads-1] INFO  - Java version 21
+12:47:24.004 [sbt-bg-threads-1] INFO  - ==============================================================
+12:47:24.004 [sbt-bg-threads-1] INFO  - No custom resources configured for spark.driver.
+12:47:24.008 [sbt-bg-threads-1] INFO  - ==============================================================
+12:47:24.008 [sbt-bg-threads-1] INFO  - Submitted application: GraphX Example
+12:47:24.079 [sbt-bg-threads-1] INFO  - Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+12:47:24.087 [sbt-bg-threads-1] INFO  - Limiting resource is cpu
+12:47:24.091 [sbt-bg-threads-1] INFO  - Added ResourceProfile id: 0
+12:47:24.209 [sbt-bg-threads-1] INFO  - Changing view acls to: aless
+12:47:24.210 [sbt-bg-threads-1] INFO  - Changing modify acls to: aless
+12:47:24.210 [sbt-bg-threads-1] INFO  - Changing view acls groups to: 
+12:47:24.214 [sbt-bg-threads-1] INFO  - Changing modify acls groups to: 
+12:47:24.216 [sbt-bg-threads-1] INFO  - SecurityManager: authentication disabled; ui acls disabled; users with view permissions: aless; groups with view permissions: EMPTY; users with modify permissions: aless; groups with modify permissions: EMPTY
+12:47:25.244 [sbt-bg-threads-1] INFO  - Successfully started service 'sparkDriver' on port 57412.
+12:47:25.305 [sbt-bg-threads-1] INFO  - Registering MapOutputTracker
+12:47:25.418 [sbt-bg-threads-1] INFO  - Registering BlockManagerMaster
+12:47:25.484 [sbt-bg-threads-1] INFO  - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+12:47:25.488 [sbt-bg-threads-1] INFO  - BlockManagerMasterEndpoint up
+13:00:00.530 [sbt-bg-threads-1] INFO  - Running Spark version 3.5.0
+13:00:00.540 [sbt-bg-threads-1] INFO  - OS info Windows 11, 10.0, amd64
+13:00:00.541 [sbt-bg-threads-1] INFO  - Java version 1.8.0_381
+13:00:01.214 [sbt-bg-threads-1] INFO  - ==============================================================
+13:00:01.222 [sbt-bg-threads-1] INFO  - No custom resources configured for spark.driver.
+13:00:01.225 [sbt-bg-threads-1] INFO  - ==============================================================
+13:00:01.287 [sbt-bg-threads-1] INFO  - Submitted application: GraphX Example
+13:00:01.373 [sbt-bg-threads-1] INFO  - Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+13:00:01.385 [sbt-bg-threads-1] INFO  - Limiting resource is cpu
+13:00:01.397 [sbt-bg-threads-1] INFO  - Added ResourceProfile id: 0
+13:00:01.601 [sbt-bg-threads-1] INFO  - Changing view acls to: aless
+13:00:01.604 [sbt-bg-threads-1] INFO  - Changing modify acls to: aless
+13:00:01.607 [sbt-bg-threads-1] INFO  - Changing view acls groups to: 
+13:00:01.609 [sbt-bg-threads-1] INFO  - Changing modify acls groups to: 
+13:00:01.612 [sbt-bg-threads-1] INFO  - SecurityManager: authentication disabled; ui acls disabled; users with view permissions: aless; groups with view permissions: EMPTY; users with modify permissions: aless; groups with modify permissions: EMPTY
+13:00:04.270 [sbt-bg-threads-1] INFO  - Successfully started service 'sparkDriver' on port 64514.
+13:00:04.380 [sbt-bg-threads-1] INFO  - Registering MapOutputTracker
+13:00:04.517 [sbt-bg-threads-1] INFO  - Registering BlockManagerMaster
+13:00:04.712 [sbt-bg-threads-1] INFO  - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+13:00:04.775 [sbt-bg-threads-1] INFO  - BlockManagerMasterEndpoint up
+13:00:04.926 [sbt-bg-threads-1] INFO  - Registering BlockManagerMasterHeartbeat
+13:00:05.147 [sbt-bg-threads-1] INFO  - Created local directory at C:\Users\aless\AppData\Local\Temp\blockmgr-ec5da9dd-0bdf-439a-965f-712f9e1ce343
+13:00:05.404 [sbt-bg-threads-1] INFO  - MemoryStore started with capacity 413.7 MiB
+13:00:05.478 [sbt-bg-threads-1] INFO  - Registering OutputCommitCoordinator
+13:00:05.823 [sbt-bg-threads-1] INFO  - Logging initialized @35329ms to org.sparkproject.jetty.util.log.Slf4jLog
+13:00:06.182 [sbt-bg-threads-1] INFO  - Start Jetty 0.0.0.0:4040 for SparkUI
+13:00:06.225 [sbt-bg-threads-1] INFO  - jetty-9.4.52.v20230823; built: 2023-08-23T19:29:37.669Z; git: abdcda73818a1a2c705da276edb0bf6581e7997e; jvm 1.8.0_381-b09
+13:00:06.351 [sbt-bg-threads-1] INFO  - Started @35861ms
+13:00:06.536 [sbt-bg-threads-1] INFO  - Started ServerConnector@37fb52ad{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+13:00:06.545 [sbt-bg-threads-1] INFO  - Successfully started service 'SparkUI' on port 4040.
+13:00:06.655 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@63894e6b{/,null,AVAILABLE,@Spark}
+13:00:07.527 [sbt-bg-threads-1] INFO  - Starting executor ID driver on host Dell-MAIN-A
+13:00:07.530 [sbt-bg-threads-1] INFO  - OS info Windows 11, 10.0, amd64
+13:00:07.531 [sbt-bg-threads-1] INFO  - Java version 1.8.0_381
+13:00:07.559 [sbt-bg-threads-1] INFO  - Starting executor with user classpath (userClassPathFirst = false): ''
+13:00:07.587 [sbt-bg-threads-1] INFO  - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@781ee2bb for default.
+13:00:07.783 [sbt-bg-threads-1] INFO  - Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 64563.
+13:00:07.790 [sbt-bg-threads-1] INFO  - Server created on Dell-MAIN-A:64563
+13:00:07.800 [sbt-bg-threads-1] INFO  - Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+13:00:07.842 [sbt-bg-threads-1] INFO  - Registering BlockManager BlockManagerId(driver, Dell-MAIN-A, 64563, None)
+13:00:07.862 [dispatcher-BlockManagerMaster] INFO  - Registering block manager Dell-MAIN-A:64563 with 413.7 MiB RAM, BlockManagerId(driver, Dell-MAIN-A, 64563, None)
+13:00:07.882 [sbt-bg-threads-1] INFO  - Registered BlockManager BlockManagerId(driver, Dell-MAIN-A, 64563, None)
+13:00:07.900 [sbt-bg-threads-1] INFO  - Initialized BlockManager: BlockManagerId(driver, Dell-MAIN-A, 64563, None)
+13:00:08.978 [sbt-bg-threads-1] INFO  - Stopped o.s.j.s.ServletContextHandler@63894e6b{/,null,STOPPED,@Spark}
+13:00:09.085 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@3cb3ec90{/jobs,null,AVAILABLE,@Spark}
+13:00:09.094 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@5afd900f{/jobs/json,null,AVAILABLE,@Spark}
+13:00:09.109 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@69c2adfb{/jobs/job,null,AVAILABLE,@Spark}
+13:00:09.118 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@26a9b3af{/jobs/job/json,null,AVAILABLE,@Spark}
+13:00:09.122 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@2569fe6a{/stages,null,AVAILABLE,@Spark}
+13:00:09.126 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@5800a6f9{/stages/json,null,AVAILABLE,@Spark}
+13:00:09.136 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@3e3d6de1{/stages/stage,null,AVAILABLE,@Spark}
+13:00:09.143 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@55c0a929{/stages/stage/json,null,AVAILABLE,@Spark}
+13:00:09.148 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@5a0aca20{/stages/pool,null,AVAILABLE,@Spark}
+13:00:09.151 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@2971399d{/stages/pool/json,null,AVAILABLE,@Spark}
+13:00:09.153 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@45291f67{/storage,null,AVAILABLE,@Spark}
+13:00:09.159 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@5ed4f169{/storage/json,null,AVAILABLE,@Spark}
+13:00:09.169 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@6ef5c7a3{/storage/rdd,null,AVAILABLE,@Spark}
+13:00:09.213 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@253f8b20{/storage/rdd/json,null,AVAILABLE,@Spark}
+13:00:09.254 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@57db4a89{/environment,null,AVAILABLE,@Spark}
+13:00:09.269 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@1959e148{/environment/json,null,AVAILABLE,@Spark}
+13:00:09.319 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@19fdf14f{/executors,null,AVAILABLE,@Spark}
+13:00:09.332 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@3f493033{/executors/json,null,AVAILABLE,@Spark}
+13:00:09.351 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@26aa78f4{/executors/threadDump,null,AVAILABLE,@Spark}
+13:00:09.362 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@5fa8fdbc{/executors/threadDump/json,null,AVAILABLE,@Spark}
+13:00:09.392 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@26f6b78b{/static,null,AVAILABLE,@Spark}
+13:00:09.397 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@4e9e7c45{/,null,AVAILABLE,@Spark}
+13:00:09.403 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@78d1c39e{/api,null,AVAILABLE,@Spark}
+13:00:09.406 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@324e2c8c{/jobs/job/kill,null,AVAILABLE,@Spark}
+13:00:09.408 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@50b49579{/stages/stage/kill,null,AVAILABLE,@Spark}
+13:00:09.428 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@4af033b6{/metrics/json,null,AVAILABLE,@Spark}
+13:00:10.680 [shutdown-hook-0] INFO  - Invoking stop() from shutdown hook
+13:00:10.691 [shutdown-hook-0] INFO  - SparkContext is stopping with exitCode 0.
+13:00:10.728 [shutdown-hook-0] INFO  - Stopped Spark@37fb52ad{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+13:00:10.775 [shutdown-hook-0] INFO  - Stopped Spark web UI at http://Dell-MAIN-A:4040
+13:00:10.831 [dispatcher-event-loop-7] INFO  - MapOutputTrackerMasterEndpoint stopped!
+13:00:10.881 [shutdown-hook-0] INFO  - MemoryStore cleared
+13:00:10.887 [shutdown-hook-0] INFO  - BlockManager stopped
+13:00:10.908 [shutdown-hook-0] INFO  - BlockManagerMaster stopped
+13:00:10.925 [dispatcher-event-loop-4] INFO  - OutputCommitCoordinator stopped!
+13:00:10.941 [shutdown-hook-0] INFO  - Successfully stopped SparkContext
+13:00:10.949 [shutdown-hook-0] INFO  - Shutdown hook called
+13:00:10.952 [shutdown-hook-0] INFO  - Deleting directory C:\Users\aless\AppData\Local\Temp\spark-4450bb22-edab-49a7-a5b1-e83de9dfa995
+13:02:33.069 [sbt-bg-threads-1] INFO  - Running Spark version 3.5.0
+13:02:33.077 [sbt-bg-threads-1] INFO  - OS info Windows 11, 10.0, amd64
+13:02:33.079 [sbt-bg-threads-1] INFO  - Java version 1.8.0_381
+13:02:33.657 [sbt-bg-threads-1] INFO  - ==============================================================
+13:02:33.658 [sbt-bg-threads-1] INFO  - No custom resources configured for spark.driver.
+13:02:33.659 [sbt-bg-threads-1] INFO  - ==============================================================
+13:02:33.660 [sbt-bg-threads-1] INFO  - Submitted application: GraphX Example
+13:02:33.717 [sbt-bg-threads-1] INFO  - Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+13:02:33.728 [sbt-bg-threads-1] INFO  - Limiting resource is cpu
+13:02:33.730 [sbt-bg-threads-1] INFO  - Added ResourceProfile id: 0
+13:02:33.884 [sbt-bg-threads-1] INFO  - Changing view acls to: aless
+13:02:33.885 [sbt-bg-threads-1] INFO  - Changing modify acls to: aless
+13:02:33.886 [sbt-bg-threads-1] INFO  - Changing view acls groups to: 
+13:02:33.887 [sbt-bg-threads-1] INFO  - Changing modify acls groups to: 
+13:02:33.888 [sbt-bg-threads-1] INFO  - SecurityManager: authentication disabled; ui acls disabled; users with view permissions: aless; groups with view permissions: EMPTY; users with modify permissions: aless; groups with modify permissions: EMPTY
+13:02:34.944 [sbt-bg-threads-1] INFO  - Successfully started service 'sparkDriver' on port 64734.
+13:02:35.025 [sbt-bg-threads-1] INFO  - Registering MapOutputTracker
+13:02:35.137 [sbt-bg-threads-1] INFO  - Registering BlockManagerMaster
+13:02:35.201 [sbt-bg-threads-1] INFO  - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+13:02:35.203 [sbt-bg-threads-1] INFO  - BlockManagerMasterEndpoint up
+13:02:35.212 [sbt-bg-threads-1] INFO  - Registering BlockManagerMasterHeartbeat
+13:02:35.310 [sbt-bg-threads-1] INFO  - Created local directory at C:\Users\aless\AppData\Local\Temp\blockmgr-065c44c4-4d23-46e3-9fa9-ed162089842c
+13:02:35.406 [sbt-bg-threads-1] INFO  - MemoryStore started with capacity 414.6 MiB
+13:02:35.452 [sbt-bg-threads-1] INFO  - Registering OutputCommitCoordinator
+13:02:35.576 [sbt-bg-threads-1] INFO  - Logging initialized @32667ms to org.sparkproject.jetty.util.log.Slf4jLog
+13:02:35.744 [sbt-bg-threads-1] INFO  - Start Jetty 0.0.0.0:4040 for SparkUI
+13:02:35.767 [sbt-bg-threads-1] INFO  - jetty-9.4.52.v20230823; built: 2023-08-23T19:29:37.669Z; git: abdcda73818a1a2c705da276edb0bf6581e7997e; jvm 1.8.0_381-b09
+13:02:35.811 [sbt-bg-threads-1] INFO  - Started @32905ms
+13:02:35.914 [sbt-bg-threads-1] INFO  - Started ServerConnector@53d5db9f{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+13:02:35.916 [sbt-bg-threads-1] INFO  - Successfully started service 'SparkUI' on port 4040.
+13:02:35.975 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@3a517d26{/,null,AVAILABLE,@Spark}
+13:02:36.190 [sbt-bg-threads-1] INFO  - Starting executor ID driver on host Dell-MAIN-A
+13:02:36.191 [sbt-bg-threads-1] INFO  - OS info Windows 11, 10.0, amd64
+13:02:36.192 [sbt-bg-threads-1] INFO  - Java version 1.8.0_381
+13:02:36.208 [sbt-bg-threads-1] INFO  - Starting executor with user classpath (userClassPathFirst = false): ''
+13:02:36.211 [sbt-bg-threads-1] INFO  - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@136c05b9 for default.
+13:02:36.267 [sbt-bg-threads-1] INFO  - Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 64779.
+13:02:36.267 [sbt-bg-threads-1] INFO  - Server created on Dell-MAIN-A:64779
+13:02:36.271 [sbt-bg-threads-1] INFO  - Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+13:02:36.286 [sbt-bg-threads-1] INFO  - Registering BlockManager BlockManagerId(driver, Dell-MAIN-A, 64779, None)
+13:02:36.293 [dispatcher-BlockManagerMaster] INFO  - Registering block manager Dell-MAIN-A:64779 with 414.6 MiB RAM, BlockManagerId(driver, Dell-MAIN-A, 64779, None)
+13:02:36.302 [sbt-bg-threads-1] INFO  - Registered BlockManager BlockManagerId(driver, Dell-MAIN-A, 64779, None)
+13:02:36.306 [sbt-bg-threads-1] INFO  - Initialized BlockManager: BlockManagerId(driver, Dell-MAIN-A, 64779, None)
+13:02:36.777 [sbt-bg-threads-1] INFO  - Stopped o.s.j.s.ServletContextHandler@3a517d26{/,null,STOPPED,@Spark}
+13:02:36.779 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@6ab277d3{/jobs,null,AVAILABLE,@Spark}
+13:02:36.783 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@5f8e21d6{/jobs/json,null,AVAILABLE,@Spark}
+13:02:36.786 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@49a7f428{/jobs/job,null,AVAILABLE,@Spark}
+13:02:36.794 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@4b9bef32{/jobs/job/json,null,AVAILABLE,@Spark}
+13:02:36.798 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@4754c752{/stages,null,AVAILABLE,@Spark}
+13:02:36.801 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@7b619078{/stages/json,null,AVAILABLE,@Spark}
+13:02:36.806 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@2814b24e{/stages/stage,null,AVAILABLE,@Spark}
+13:02:36.809 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@30a24d9d{/stages/stage/json,null,AVAILABLE,@Spark}
+13:02:36.812 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@6aa3e5dd{/stages/pool,null,AVAILABLE,@Spark}
+13:02:36.816 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@14abe349{/stages/pool/json,null,AVAILABLE,@Spark}
+13:02:36.819 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@43b4af7c{/storage,null,AVAILABLE,@Spark}
+13:02:36.823 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@276c026{/storage/json,null,AVAILABLE,@Spark}
+13:02:36.825 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@338fcc0b{/storage/rdd,null,AVAILABLE,@Spark}
+13:02:36.828 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@287026b4{/storage/rdd/json,null,AVAILABLE,@Spark}
+13:02:36.830 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@227656f{/environment,null,AVAILABLE,@Spark}
+13:02:36.833 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@2a6e108f{/environment/json,null,AVAILABLE,@Spark}
+13:02:36.836 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@74012701{/executors,null,AVAILABLE,@Spark}
+13:02:36.839 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@3bb880a1{/executors/json,null,AVAILABLE,@Spark}
+13:02:36.843 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@2a5a5659{/executors/threadDump,null,AVAILABLE,@Spark}
+13:02:36.846 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@74422a8a{/executors/threadDump/json,null,AVAILABLE,@Spark}
+13:02:36.867 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@293d681e{/static,null,AVAILABLE,@Spark}
+13:02:36.871 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@500ef9ba{/,null,AVAILABLE,@Spark}
+13:02:36.877 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@10f896d5{/api,null,AVAILABLE,@Spark}
+13:02:36.879 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@563c3259{/jobs/job/kill,null,AVAILABLE,@Spark}
+13:02:36.883 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@a88474f{/stages/stage/kill,null,AVAILABLE,@Spark}
+13:02:36.890 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@60c447fd{/metrics/json,null,AVAILABLE,@Spark}
+13:02:38.580 [sbt-bg-threads-1] INFO  - SparkContext is stopping with exitCode 0.
+13:02:38.593 [sbt-bg-threads-1] INFO  - Stopped Spark@53d5db9f{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+13:02:38.599 [sbt-bg-threads-1] INFO  - Stopped Spark web UI at http://Dell-MAIN-A:4040
+13:02:38.630 [dispatcher-event-loop-7] INFO  - MapOutputTrackerMasterEndpoint stopped!
+13:02:38.648 [sbt-bg-threads-1] INFO  - MemoryStore cleared
+13:02:38.649 [sbt-bg-threads-1] INFO  - BlockManager stopped
+13:02:38.677 [sbt-bg-threads-1] INFO  - BlockManagerMaster stopped
+13:02:38.691 [dispatcher-event-loop-3] INFO  - OutputCommitCoordinator stopped!
+13:02:38.698 [sbt-bg-threads-1] INFO  - Successfully stopped SparkContext
+13:02:38.708 [shutdown-hook-0] INFO  - Shutdown hook called
+13:02:38.710 [shutdown-hook-0] INFO  - Deleting directory C:\Users\aless\AppData\Local\Temp\spark-b95cc10d-426a-4188-8104-067a5820ce46
+13:05:51.609 [sbt-bg-threads-1] INFO  - Running Spark version 3.5.0
+13:05:51.615 [sbt-bg-threads-1] INFO  - OS info Windows 11, 10.0, amd64
+13:05:51.616 [sbt-bg-threads-1] INFO  - Java version 1.8.0_381
+13:05:52.085 [sbt-bg-threads-1] INFO  - ==============================================================
+13:05:52.086 [sbt-bg-threads-1] INFO  - No custom resources configured for spark.driver.
+13:05:52.088 [sbt-bg-threads-1] INFO  - ==============================================================
+13:05:52.089 [sbt-bg-threads-1] INFO  - Submitted application: GraphX Example
+13:05:52.120 [sbt-bg-threads-1] INFO  - Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+13:05:52.126 [sbt-bg-threads-1] INFO  - Limiting resource is cpu
+13:05:52.128 [sbt-bg-threads-1] INFO  - Added ResourceProfile id: 0
+13:05:52.232 [sbt-bg-threads-1] INFO  - Changing view acls to: aless
+13:05:52.233 [sbt-bg-threads-1] INFO  - Changing modify acls to: aless
+13:05:52.235 [sbt-bg-threads-1] INFO  - Changing view acls groups to: 
+13:05:52.236 [sbt-bg-threads-1] INFO  - Changing modify acls groups to: 
+13:05:52.237 [sbt-bg-threads-1] INFO  - SecurityManager: authentication disabled; ui acls disabled; users with view permissions: aless; groups with view permissions: EMPTY; users with modify permissions: aless; groups with modify permissions: EMPTY
+13:05:54.048 [sbt-bg-threads-1] INFO  - Successfully started service 'sparkDriver' on port 63706.
+13:05:54.090 [sbt-bg-threads-1] INFO  - Registering MapOutputTracker
+13:05:54.148 [sbt-bg-threads-1] INFO  - Registering BlockManagerMaster
+13:05:54.195 [sbt-bg-threads-1] INFO  - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+13:05:54.196 [sbt-bg-threads-1] INFO  - BlockManagerMasterEndpoint up
+13:05:54.204 [sbt-bg-threads-1] INFO  - Registering BlockManagerMasterHeartbeat
+13:05:54.272 [sbt-bg-threads-1] INFO  - Created local directory at C:\Users\aless\AppData\Local\Temp\blockmgr-e32aee9b-6370-43a9-a45e-ee54b3eb2692
+13:05:54.335 [sbt-bg-threads-1] INFO  - MemoryStore started with capacity 415.5 MiB
+13:05:54.366 [sbt-bg-threads-1] INFO  - Registering OutputCommitCoordinator
+13:05:54.469 [sbt-bg-threads-1] INFO  - Logging initialized @29456ms to org.sparkproject.jetty.util.log.Slf4jLog
+13:05:54.582 [sbt-bg-threads-1] INFO  - Start Jetty 0.0.0.0:4040 for SparkUI
+13:05:54.602 [sbt-bg-threads-1] INFO  - jetty-9.4.52.v20230823; built: 2023-08-23T19:29:37.669Z; git: abdcda73818a1a2c705da276edb0bf6581e7997e; jvm 1.8.0_381-b09
+13:05:54.632 [sbt-bg-threads-1] INFO  - Started @29621ms
+13:05:54.688 [sbt-bg-threads-1] INFO  - Started ServerConnector@5744938a{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+13:05:54.689 [sbt-bg-threads-1] INFO  - Successfully started service 'SparkUI' on port 4040.
+13:05:54.720 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@146d6706{/,null,AVAILABLE,@Spark}
+13:05:54.948 [sbt-bg-threads-1] INFO  - Starting executor ID driver on host Dell-MAIN-A
+13:05:54.949 [sbt-bg-threads-1] INFO  - OS info Windows 11, 10.0, amd64
+13:05:54.951 [sbt-bg-threads-1] INFO  - Java version 1.8.0_381
+13:05:54.968 [sbt-bg-threads-1] INFO  - Starting executor with user classpath (userClassPathFirst = false): ''
+13:05:54.970 [sbt-bg-threads-1] INFO  - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@16f2a495 for default.
+13:05:55.035 [sbt-bg-threads-1] INFO  - Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 63749.
+13:05:55.036 [sbt-bg-threads-1] INFO  - Server created on Dell-MAIN-A:63749
+13:05:55.041 [sbt-bg-threads-1] INFO  - Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+13:05:55.057 [sbt-bg-threads-1] INFO  - Registering BlockManager BlockManagerId(driver, Dell-MAIN-A, 63749, None)
+13:05:55.065 [dispatcher-BlockManagerMaster] INFO  - Registering block manager Dell-MAIN-A:63749 with 415.5 MiB RAM, BlockManagerId(driver, Dell-MAIN-A, 63749, None)
+13:05:55.077 [sbt-bg-threads-1] INFO  - Registered BlockManager BlockManagerId(driver, Dell-MAIN-A, 63749, None)
+13:05:55.080 [sbt-bg-threads-1] INFO  - Initialized BlockManager: BlockManagerId(driver, Dell-MAIN-A, 63749, None)
+13:05:55.514 [sbt-bg-threads-1] INFO  - Stopped o.s.j.s.ServletContextHandler@146d6706{/,null,STOPPED,@Spark}
+13:05:55.518 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@1afc9c73{/jobs,null,AVAILABLE,@Spark}
+13:05:55.520 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@4397ac4a{/jobs/json,null,AVAILABLE,@Spark}
+13:05:55.522 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@40d17569{/jobs/job,null,AVAILABLE,@Spark}
+13:05:55.524 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@2604c945{/jobs/job/json,null,AVAILABLE,@Spark}
+13:05:55.525 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@32552e0{/stages,null,AVAILABLE,@Spark}
+13:05:55.527 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@6e7ad07f{/stages/json,null,AVAILABLE,@Spark}
+13:05:55.530 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@5a500639{/stages/stage,null,AVAILABLE,@Spark}
+13:05:55.532 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@2c3e0d08{/stages/stage/json,null,AVAILABLE,@Spark}
+13:05:55.534 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@1aa14cfc{/stages/pool,null,AVAILABLE,@Spark}
+13:05:55.535 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@63dae0e9{/stages/pool/json,null,AVAILABLE,@Spark}
+13:05:55.536 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@64d9f1f0{/storage,null,AVAILABLE,@Spark}
+13:05:55.538 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@683aedba{/storage/json,null,AVAILABLE,@Spark}
+13:05:55.539 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@4b69f092{/storage/rdd,null,AVAILABLE,@Spark}
+13:05:55.541 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@3489d16e{/storage/rdd/json,null,AVAILABLE,@Spark}
+13:05:55.542 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@766adb9f{/environment,null,AVAILABLE,@Spark}
+13:05:55.544 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@aa1df81{/environment/json,null,AVAILABLE,@Spark}
+13:05:55.546 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@429d3525{/executors,null,AVAILABLE,@Spark}
+13:05:55.547 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@7db4b992{/executors/json,null,AVAILABLE,@Spark}
+13:05:55.549 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@697996f4{/executors/threadDump,null,AVAILABLE,@Spark}
+13:05:55.550 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@21c33bc1{/executors/threadDump/json,null,AVAILABLE,@Spark}
+13:05:55.563 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@73852051{/static,null,AVAILABLE,@Spark}
+13:05:55.564 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@2e5ff017{/,null,AVAILABLE,@Spark}
+13:05:55.566 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@6f05b6b1{/api,null,AVAILABLE,@Spark}
+13:05:55.568 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@2ca02626{/jobs/job/kill,null,AVAILABLE,@Spark}
+13:05:55.569 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@7a6f331b{/stages/stage/kill,null,AVAILABLE,@Spark}
+13:05:55.575 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@51985f07{/metrics/json,null,AVAILABLE,@Spark}
+13:05:57.848 [sbt-bg-threads-1] INFO  - SparkContext is stopping with exitCode 0.
+13:05:57.866 [sbt-bg-threads-1] INFO  - Stopped Spark@5744938a{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+13:05:57.876 [sbt-bg-threads-1] INFO  - Stopped Spark web UI at http://Dell-MAIN-A:4040
+13:05:57.912 [dispatcher-event-loop-7] INFO  - MapOutputTrackerMasterEndpoint stopped!
+13:05:57.938 [sbt-bg-threads-1] INFO  - MemoryStore cleared
+13:05:57.940 [sbt-bg-threads-1] INFO  - BlockManager stopped
+13:05:57.955 [sbt-bg-threads-1] INFO  - BlockManagerMaster stopped
+13:05:57.965 [dispatcher-event-loop-3] INFO  - OutputCommitCoordinator stopped!
+13:05:57.975 [sbt-bg-threads-1] INFO  - Successfully stopped SparkContext
+13:05:57.985 [shutdown-hook-0] INFO  - Shutdown hook called
+13:05:57.990 [shutdown-hook-0] INFO  - Deleting directory C:\Users\aless\AppData\Local\Temp\spark-963170ec-297d-4010-b8ee-d3c344a7801e
+13:09:16.574 [sbt-bg-threads-1] INFO  - Running Spark version 3.5.0
+13:09:16.590 [sbt-bg-threads-1] INFO  - OS info Windows 11, 10.0, amd64
+13:09:16.590 [sbt-bg-threads-1] INFO  - Java version 1.8.0_381
+13:09:17.312 [sbt-bg-threads-1] INFO  - ==============================================================
+13:09:17.312 [sbt-bg-threads-1] INFO  - No custom resources configured for spark.driver.
+13:09:17.312 [sbt-bg-threads-1] INFO  - ==============================================================
+13:09:17.319 [sbt-bg-threads-1] INFO  - Submitted application: GraphX Example
+13:09:17.376 [sbt-bg-threads-1] INFO  - Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+13:09:17.391 [sbt-bg-threads-1] INFO  - Limiting resource is cpu
+13:09:17.391 [sbt-bg-threads-1] INFO  - Added ResourceProfile id: 0
+13:09:17.596 [sbt-bg-threads-1] INFO  - Changing view acls to: aless
+13:09:17.612 [sbt-bg-threads-1] INFO  - Changing modify acls to: aless
+13:09:17.612 [sbt-bg-threads-1] INFO  - Changing view acls groups to: 
+13:09:17.612 [sbt-bg-threads-1] INFO  - Changing modify acls groups to: 
+13:09:17.612 [sbt-bg-threads-1] INFO  - SecurityManager: authentication disabled; ui acls disabled; users with view permissions: aless; groups with view permissions: EMPTY; users with modify permissions: aless; groups with modify permissions: EMPTY
+13:09:19.310 [sbt-bg-threads-1] INFO  - Successfully started service 'sparkDriver' on port 63831.
+13:09:19.362 [sbt-bg-threads-1] INFO  - Registering MapOutputTracker
+13:09:19.456 [sbt-bg-threads-1] INFO  - Registering BlockManagerMaster
+13:09:19.521 [sbt-bg-threads-1] INFO  - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+13:09:19.521 [sbt-bg-threads-1] INFO  - BlockManagerMasterEndpoint up
+13:09:19.521 [sbt-bg-threads-1] INFO  - Registering BlockManagerMasterHeartbeat
+13:09:19.615 [sbt-bg-threads-1] INFO  - Created local directory at C:\Users\aless\AppData\Local\Temp\blockmgr-86f774a7-01dd-47f2-97f7-747e0adfc798
+13:09:19.705 [sbt-bg-threads-1] INFO  - MemoryStore started with capacity 414.6 MiB
+13:09:19.752 [sbt-bg-threads-1] INFO  - Registering OutputCommitCoordinator
+13:09:19.915 [sbt-bg-threads-1] INFO  - Logging initialized @28331ms to org.sparkproject.jetty.util.log.Slf4jLog
+13:09:20.234 [sbt-bg-threads-1] INFO  - Start Jetty 0.0.0.0:4040 for SparkUI
+13:09:20.272 [sbt-bg-threads-1] INFO  - jetty-9.4.52.v20230823; built: 2023-08-23T19:29:37.669Z; git: abdcda73818a1a2c705da276edb0bf6581e7997e; jvm 1.8.0_381-b09
+13:09:20.377 [sbt-bg-threads-1] INFO  - Started @28790ms
+13:09:20.515 [sbt-bg-threads-1] INFO  - Started ServerConnector@4f8477e5{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+13:09:20.526 [sbt-bg-threads-1] INFO  - Successfully started service 'SparkUI' on port 4040.
+13:09:20.618 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@7ed2276e{/,null,AVAILABLE,@Spark}
+13:09:20.975 [sbt-bg-threads-1] INFO  - Starting executor ID driver on host Dell-MAIN-A
+13:09:20.975 [sbt-bg-threads-1] INFO  - OS info Windows 11, 10.0, amd64
+13:09:20.980 [sbt-bg-threads-1] INFO  - Java version 1.8.0_381
+13:09:21.009 [sbt-bg-threads-1] INFO  - Starting executor with user classpath (userClassPathFirst = false): ''
+13:09:21.011 [sbt-bg-threads-1] INFO  - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@19babac7 for default.
+13:09:21.119 [sbt-bg-threads-1] INFO  - Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 63874.
+13:09:21.123 [sbt-bg-threads-1] INFO  - Server created on Dell-MAIN-A:63874
+13:09:21.125 [sbt-bg-threads-1] INFO  - Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+13:09:21.141 [sbt-bg-threads-1] INFO  - Registering BlockManager BlockManagerId(driver, Dell-MAIN-A, 63874, None)
+13:09:21.155 [dispatcher-BlockManagerMaster] INFO  - Registering block manager Dell-MAIN-A:63874 with 414.6 MiB RAM, BlockManagerId(driver, Dell-MAIN-A, 63874, None)
+13:09:21.170 [sbt-bg-threads-1] INFO  - Registered BlockManager BlockManagerId(driver, Dell-MAIN-A, 63874, None)
+13:09:21.170 [sbt-bg-threads-1] INFO  - Initialized BlockManager: BlockManagerId(driver, Dell-MAIN-A, 63874, None)
+13:09:21.693 [sbt-bg-threads-1] INFO  - Stopped o.s.j.s.ServletContextHandler@7ed2276e{/,null,STOPPED,@Spark}
+13:09:21.693 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@704d32c0{/jobs,null,AVAILABLE,@Spark}
+13:09:21.693 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@503e00c8{/jobs/json,null,AVAILABLE,@Spark}
+13:09:21.704 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@ed98d29{/jobs/job,null,AVAILABLE,@Spark}
+13:09:21.704 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@41ecef2f{/jobs/job/json,null,AVAILABLE,@Spark}
+13:09:21.710 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@6279dc2c{/stages,null,AVAILABLE,@Spark}
+13:09:21.712 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@65899ce2{/stages/json,null,AVAILABLE,@Spark}
+13:09:21.717 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@afef26b{/stages/stage,null,AVAILABLE,@Spark}
+13:09:21.717 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@77bdf9e{/stages/stage/json,null,AVAILABLE,@Spark}
+13:09:21.725 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@119a1b47{/stages/pool,null,AVAILABLE,@Spark}
+13:09:21.725 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@341b4cc5{/stages/pool/json,null,AVAILABLE,@Spark}
+13:09:21.728 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@4f22c308{/storage,null,AVAILABLE,@Spark}
+13:09:21.728 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@63f850a5{/storage/json,null,AVAILABLE,@Spark}
+13:09:21.728 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@29a62480{/storage/rdd,null,AVAILABLE,@Spark}
+13:09:21.728 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@5f83059b{/storage/rdd/json,null,AVAILABLE,@Spark}
+13:09:21.728 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@1b18fe27{/environment,null,AVAILABLE,@Spark}
+13:09:21.728 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@5a55584f{/environment/json,null,AVAILABLE,@Spark}
+13:09:21.743 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@1734f037{/executors,null,AVAILABLE,@Spark}
+13:09:21.743 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@13d7f0af{/executors/json,null,AVAILABLE,@Spark}
+13:09:21.743 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@6623572e{/executors/threadDump,null,AVAILABLE,@Spark}
+13:09:21.751 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@2bd107f5{/executors/threadDump/json,null,AVAILABLE,@Spark}
+13:09:21.758 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@34f69c89{/static,null,AVAILABLE,@Spark}
+13:09:21.774 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@43a8c13e{/,null,AVAILABLE,@Spark}
+13:09:21.779 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@2616ffbb{/api,null,AVAILABLE,@Spark}
+13:09:21.779 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@46b540ac{/jobs/job/kill,null,AVAILABLE,@Spark}
+13:09:21.783 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@1b431f1{/stages/stage/kill,null,AVAILABLE,@Spark}
+13:09:21.788 [sbt-bg-threads-1] INFO  - Started o.s.j.s.ServletContextHandler@63e1c287{/metrics/json,null,AVAILABLE,@Spark}
+13:09:23.849 [sbt-bg-threads-1] INFO  - SparkContext is stopping with exitCode 0.
+13:09:23.879 [sbt-bg-threads-1] INFO  - Stopped Spark@4f8477e5{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+13:09:23.887 [sbt-bg-threads-1] INFO  - Stopped Spark web UI at http://Dell-MAIN-A:4040
+13:09:23.927 [dispatcher-event-loop-7] INFO  - MapOutputTrackerMasterEndpoint stopped!
+13:09:23.944 [sbt-bg-threads-1] INFO  - MemoryStore cleared
+13:09:23.944 [sbt-bg-threads-1] INFO  - BlockManager stopped
+13:09:23.960 [sbt-bg-threads-1] INFO  - BlockManagerMaster stopped
+13:09:23.960 [dispatcher-event-loop-3] INFO  - OutputCommitCoordinator stopped!
+13:09:23.975 [sbt-bg-threads-1] INFO  - Successfully stopped SparkContext
+13:09:23.994 [shutdown-hook-0] INFO  - Shutdown hook called
+13:09:24.003 [shutdown-hook-0] INFO  - Deleting directory C:\Users\aless\AppData\Local\Temp\spark-a4f8d1a2-a016-44da-a6b4-b41b542496e4
+14:06:28.662 [main] INFO  - Running Spark version 3.5.0
+14:06:28.662 [main] INFO  - OS info Windows 11, 10.0, amd64
+14:06:28.662 [main] INFO  - Java version 1.8.0_381
+14:06:29.635 [main] INFO  - ==============================================================
+14:06:29.635 [main] INFO  - No custom resources configured for spark.driver.
+14:06:29.650 [main] INFO  - ==============================================================
+14:06:29.650 [main] INFO  - Submitted application: GraphX Example
+14:06:29.717 [main] INFO  - Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+14:06:29.731 [main] INFO  - Limiting resource is cpu
+14:06:29.731 [main] INFO  - Added ResourceProfile id: 0
+14:06:29.990 [main] INFO  - Changing view acls to: aless
+14:06:29.990 [main] INFO  - Changing modify acls to: aless
+14:06:29.990 [main] INFO  - Changing view acls groups to: 
+14:06:29.990 [main] INFO  - Changing modify acls groups to: 
+14:06:29.990 [main] INFO  - SecurityManager: authentication disabled; ui acls disabled; users with view permissions: aless; groups with view permissions: EMPTY; users with modify permissions: aless; groups with modify permissions: EMPTY
+14:06:35.658 [main] INFO  - Successfully started service 'sparkDriver' on port 49891.
+14:06:35.767 [main] INFO  - Registering MapOutputTracker
+14:06:35.910 [main] INFO  - Registering BlockManagerMaster
+14:06:36.037 [main] INFO  - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+14:06:36.040 [main] INFO  - BlockManagerMasterEndpoint up
+14:06:36.052 [main] INFO  - Registering BlockManagerMasterHeartbeat
+14:06:36.107 [main] INFO  - Created local directory at C:\Users\aless\AppData\Local\Temp\blockmgr-9d2310a0-8cb9-43f7-878c-1fbef4ef0b30
+14:06:36.170 [main] INFO  - MemoryStore started with capacity 59.8 GiB
+14:06:36.185 [main] INFO  - Registering OutputCommitCoordinator
+14:06:36.281 [main] INFO  - Logging initialized @15120ms to org.sparkproject.jetty.util.log.Slf4jLog
+14:06:36.484 [main] INFO  - Start Jetty 0.0.0.0:4040 for SparkUI
+14:06:36.506 [main] INFO  - jetty-9.4.52.v20230823; built: 2023-08-23T19:29:37.669Z; git: abdcda73818a1a2c705da276edb0bf6581e7997e; jvm 1.8.0_381-b09
+14:06:36.588 [main] INFO  - Started @15429ms
+14:06:36.766 [main] INFO  - Started ServerConnector@5aa0dbf4{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+14:06:36.766 [main] INFO  - Successfully started service 'SparkUI' on port 4040.
+14:06:36.856 [main] INFO  - Started o.s.j.s.ServletContextHandler@aec50a1{/,null,AVAILABLE,@Spark}
+14:06:37.527 [main] INFO  - Starting executor ID driver on host Dell-MAIN-A
+14:06:37.530 [main] INFO  - OS info Windows 11, 10.0, amd64
+14:06:37.533 [main] INFO  - Java version 1.8.0_381
+14:06:37.580 [main] INFO  - Starting executor with user classpath (userClassPathFirst = false): ''
+14:06:37.580 [main] INFO  - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@7726e185 for default.
+14:06:37.732 [main] INFO  - Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 49934.
+14:06:37.732 [main] INFO  - Server created on Dell-MAIN-A:49934
+14:06:37.740 [main] INFO  - Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+14:06:37.770 [main] INFO  - Registering BlockManager BlockManagerId(driver, Dell-MAIN-A, 49934, None)
+14:06:37.802 [dispatcher-BlockManagerMaster] INFO  - Registering block manager Dell-MAIN-A:49934 with 59.8 GiB RAM, BlockManagerId(driver, Dell-MAIN-A, 49934, None)
+14:06:37.817 [main] INFO  - Registered BlockManager BlockManagerId(driver, Dell-MAIN-A, 49934, None)
+14:06:37.820 [main] INFO  - Initialized BlockManager: BlockManagerId(driver, Dell-MAIN-A, 49934, None)
+14:06:38.300 [main] INFO  - Stopped o.s.j.s.ServletContextHandler@aec50a1{/,null,STOPPED,@Spark}
+14:06:38.304 [main] INFO  - Started o.s.j.s.ServletContextHandler@29314cc9{/jobs,null,AVAILABLE,@Spark}
+14:06:38.305 [main] INFO  - Started o.s.j.s.ServletContextHandler@35f8a9d3{/jobs/json,null,AVAILABLE,@Spark}
+14:06:38.305 [main] INFO  - Started o.s.j.s.ServletContextHandler@63e5e5b4{/jobs/job,null,AVAILABLE,@Spark}
+14:06:38.305 [main] INFO  - Started o.s.j.s.ServletContextHandler@a50ae65{/jobs/job/json,null,AVAILABLE,@Spark}
+14:06:38.312 [main] INFO  - Started o.s.j.s.ServletContextHandler@5e840abf{/stages,null,AVAILABLE,@Spark}
+14:06:38.312 [main] INFO  - Started o.s.j.s.ServletContextHandler@5972d253{/stages/json,null,AVAILABLE,@Spark}
+14:06:38.317 [main] INFO  - Started o.s.j.s.ServletContextHandler@5b5c0057{/stages/stage,null,AVAILABLE,@Spark}
+14:06:38.317 [main] INFO  - Started o.s.j.s.ServletContextHandler@5ca1f591{/stages/stage/json,null,AVAILABLE,@Spark}
+14:06:38.317 [main] INFO  - Started o.s.j.s.ServletContextHandler@6ef81f31{/stages/pool,null,AVAILABLE,@Spark}
+14:06:38.317 [main] INFO  - Started o.s.j.s.ServletContextHandler@33abde31{/stages/pool/json,null,AVAILABLE,@Spark}
+14:06:38.328 [main] INFO  - Started o.s.j.s.ServletContextHandler@273842a6{/storage,null,AVAILABLE,@Spark}
+14:06:38.328 [main] INFO  - Started o.s.j.s.ServletContextHandler@7a18e8d{/storage/json,null,AVAILABLE,@Spark}
+14:06:38.328 [main] INFO  - Started o.s.j.s.ServletContextHandler@5560bcdf{/storage/rdd,null,AVAILABLE,@Spark}
+14:06:38.328 [main] INFO  - Started o.s.j.s.ServletContextHandler@bb095{/storage/rdd/json,null,AVAILABLE,@Spark}
+14:06:38.328 [main] INFO  - Started o.s.j.s.ServletContextHandler@27aae97b{/environment,null,AVAILABLE,@Spark}
+14:06:38.340 [main] INFO  - Started o.s.j.s.ServletContextHandler@5d1e09bc{/environment/json,null,AVAILABLE,@Spark}
+14:06:38.344 [main] INFO  - Started o.s.j.s.ServletContextHandler@3bcd426c{/executors,null,AVAILABLE,@Spark}
+14:06:38.347 [main] INFO  - Started o.s.j.s.ServletContextHandler@726a17c4{/executors/json,null,AVAILABLE,@Spark}
+14:06:38.351 [main] INFO  - Started o.s.j.s.ServletContextHandler@c4c0b41{/executors/threadDump,null,AVAILABLE,@Spark}
+14:06:38.351 [main] INFO  - Started o.s.j.s.ServletContextHandler@5467eea4{/executors/threadDump/json,null,AVAILABLE,@Spark}
+14:06:38.375 [main] INFO  - Started o.s.j.s.ServletContextHandler@7a799159{/static,null,AVAILABLE,@Spark}
+14:06:38.375 [main] INFO  - Started o.s.j.s.ServletContextHandler@4c0884e8{/,null,AVAILABLE,@Spark}
+14:06:38.375 [main] INFO  - Started o.s.j.s.ServletContextHandler@11841b15{/api,null,AVAILABLE,@Spark}
+14:06:38.375 [main] INFO  - Started o.s.j.s.ServletContextHandler@3af356f{/jobs/job/kill,null,AVAILABLE,@Spark}
+14:06:38.375 [main] INFO  - Started o.s.j.s.ServletContextHandler@7e46d648{/stages/stage/kill,null,AVAILABLE,@Spark}
+14:06:38.407 [main] INFO  - Started o.s.j.s.ServletContextHandler@3005db4a{/metrics/json,null,AVAILABLE,@Spark}
+14:06:41.371 [main] INFO  - Starting job: collect at Main.scala:23
+14:06:41.405 [dag-scheduler-event-loop] INFO  - Registering RDD 6 (mapPartitions at VertexRDD.scala:356) as input to shuffle 3
+14:06:41.427 [dag-scheduler-event-loop] INFO  - Registering RDD 0 (parallelize at ReadGraph.scala:36) as input to shuffle 1
+14:06:41.427 [dag-scheduler-event-loop] INFO  - Registering RDD 16 (mapPartitions at VertexRDDImpl.scala:247) as input to shuffle 0
+14:06:41.427 [dag-scheduler-event-loop] INFO  - Registering RDD 20 (mapPartitions at GraphImpl.scala:207) as input to shuffle 2
+14:06:41.435 [dag-scheduler-event-loop] INFO  - Got job 0 (collect at Main.scala:23) with 8 output partitions
+14:06:41.435 [dag-scheduler-event-loop] INFO  - Final stage: ResultStage 4 (collect at Main.scala:23)
+14:06:41.435 [dag-scheduler-event-loop] INFO  - Parents of final stage: List(ShuffleMapStage 0, ShuffleMapStage 1, ShuffleMapStage 3)
+14:06:41.452 [dag-scheduler-event-loop] INFO  - Missing parents: List(ShuffleMapStage 0, ShuffleMapStage 1, ShuffleMapStage 3)
+14:06:41.461 [dag-scheduler-event-loop] INFO  - Submitting ShuffleMapStage 0 (VertexRDD.createRoutingTables - vid2pid (aggregation) MapPartitionsRDD[6] at mapPartitions at VertexRDD.scala:356), which has no missing parents
+14:06:41.593 [dag-scheduler-event-loop] INFO  - Block broadcast_0 stored as values in memory (estimated size 6.0 KiB, free 59.8 GiB)
+14:06:41.659 [dag-scheduler-event-loop] INFO  - Block broadcast_0_piece0 stored as bytes in memory (estimated size 3.4 KiB, free 59.8 GiB)
+14:06:41.660 [dispatcher-BlockManagerMaster] INFO  - Added broadcast_0_piece0 in memory on Dell-MAIN-A:49934 (size: 3.4 KiB, free: 59.8 GiB)
+14:06:41.666 [dag-scheduler-event-loop] INFO  - Created broadcast 0 from broadcast at DAGScheduler.scala:1580
+14:06:41.687 [dag-scheduler-event-loop] INFO  - Submitting 8 missing tasks from ShuffleMapStage 0 (VertexRDD.createRoutingTables - vid2pid (aggregation) MapPartitionsRDD[6] at mapPartitions at VertexRDD.scala:356) (first 15 tasks are for partitions Vector(0, 1, 2, 3, 4, 5, 6, 7))
+14:06:41.690 [dag-scheduler-event-loop] INFO  - Adding task set 0.0 with 8 tasks resource profile 0
+14:06:41.721 [dag-scheduler-event-loop] INFO  - Submitting ShuffleMapStage 1 (ParallelCollectionRDD[0] at parallelize at ReadGraph.scala:36), which has no missing parents
+14:06:41.730 [dag-scheduler-event-loop] INFO  - Block broadcast_1 stored as values in memory (estimated size 3.0 KiB, free 59.8 GiB)
+14:06:41.735 [dag-scheduler-event-loop] INFO  - Block broadcast_1_piece0 stored as bytes in memory (estimated size 1864.0 B, free 59.8 GiB)
+14:06:41.735 [dispatcher-BlockManagerMaster] INFO  - Added broadcast_1_piece0 in memory on Dell-MAIN-A:49934 (size: 1864.0 B, free: 59.8 GiB)
+14:06:41.735 [dag-scheduler-event-loop] INFO  - Created broadcast 1 from broadcast at DAGScheduler.scala:1580
+14:06:41.744 [dag-scheduler-event-loop] INFO  - Submitting 8 missing tasks from ShuffleMapStage 1 (ParallelCollectionRDD[0] at parallelize at ReadGraph.scala:36) (first 15 tasks are for partitions Vector(0, 1, 2, 3, 4, 5, 6, 7))
+14:06:41.744 [dag-scheduler-event-loop] INFO  - Adding task set 1.0 with 8 tasks resource profile 0
+14:06:41.860 [dispatcher-event-loop-6] INFO  - Starting task 0.0 in stage 0.0 (TID 0) (Dell-MAIN-A, executor driver, partition 0, PROCESS_LOCAL, 407211 bytes) 
+14:06:41.893 [dispatcher-event-loop-6] INFO  - Starting task 1.0 in stage 0.0 (TID 1) (Dell-MAIN-A, executor driver, partition 1, PROCESS_LOCAL, 376907 bytes) 
+14:06:41.944 [dispatcher-event-loop-6] INFO  - Starting task 2.0 in stage 0.0 (TID 2) (Dell-MAIN-A, executor driver, partition 2, PROCESS_LOCAL, 423437 bytes) 
+14:06:41.992 [dispatcher-event-loop-6] INFO  - Starting task 3.0 in stage 0.0 (TID 3) (Dell-MAIN-A, executor driver, partition 3, PROCESS_LOCAL, 451929 bytes) 
+14:06:42.049 [dispatcher-event-loop-6] INFO  - Starting task 4.0 in stage 0.0 (TID 4) (Dell-MAIN-A, executor driver, partition 4, PROCESS_LOCAL, 412799 bytes) 
+14:06:42.091 [dispatcher-event-loop-6] INFO  - Starting task 5.0 in stage 0.0 (TID 5) (Dell-MAIN-A, executor driver, partition 5, PROCESS_LOCAL, 421588 bytes) 
+14:06:42.129 [dispatcher-event-loop-6] INFO  - Starting task 6.0 in stage 0.0 (TID 6) (Dell-MAIN-A, executor driver, partition 6, PROCESS_LOCAL, 445608 bytes) 
+14:06:42.164 [dispatcher-event-loop-6] INFO  - Starting task 7.0 in stage 0.0 (TID 7) (Dell-MAIN-A, executor driver, partition 7, PROCESS_LOCAL, 370127 bytes) 
+14:06:42.187 [Executor task launch worker for task 7.0 in stage 0.0 (TID 7)] INFO  - Running task 7.0 in stage 0.0 (TID 7)
+14:06:42.187 [Executor task launch worker for task 6.0 in stage 0.0 (TID 6)] INFO  - Running task 6.0 in stage 0.0 (TID 6)
+14:06:42.187 [Executor task launch worker for task 5.0 in stage 0.0 (TID 5)] INFO  - Running task 5.0 in stage 0.0 (TID 5)
+14:06:42.187 [Executor task launch worker for task 4.0 in stage 0.0 (TID 4)] INFO  - Running task 4.0 in stage 0.0 (TID 4)
+14:06:42.187 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  - Running task 0.0 in stage 0.0 (TID 0)
+14:06:42.187 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  - Running task 1.0 in stage 0.0 (TID 1)
+14:06:42.187 [Executor task launch worker for task 3.0 in stage 0.0 (TID 3)] INFO  - Running task 3.0 in stage 0.0 (TID 3)
+14:06:42.187 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  - Running task 2.0 in stage 0.0 (TID 2)
+14:06:44.440 [Executor task launch worker for task 6.0 in stage 0.0 (TID 6)] INFO  - Finished task 6.0 in stage 0.0 (TID 6). 1225 bytes result sent to driver
+14:06:44.440 [Executor task launch worker for task 5.0 in stage 0.0 (TID 5)] INFO  - Finished task 5.0 in stage 0.0 (TID 5). 1182 bytes result sent to driver
+14:06:44.440 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  - Finished task 2.0 in stage 0.0 (TID 2). 1225 bytes result sent to driver
+14:06:44.440 [Executor task launch worker for task 3.0 in stage 0.0 (TID 3)] INFO  - Finished task 3.0 in stage 0.0 (TID 3). 1225 bytes result sent to driver
+14:06:44.440 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  - Finished task 0.0 in stage 0.0 (TID 0). 1182 bytes result sent to driver
+14:06:44.449 [Executor task launch worker for task 7.0 in stage 0.0 (TID 7)] INFO  - Finished task 7.0 in stage 0.0 (TID 7). 1182 bytes result sent to driver
+14:06:44.467 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  - Finished task 1.0 in stage 0.0 (TID 1). 1182 bytes result sent to driver
+14:06:44.489 [Executor task launch worker for task 4.0 in stage 0.0 (TID 4)] INFO  - Finished task 4.0 in stage 0.0 (TID 4). 1225 bytes result sent to driver
+14:06:44.489 [dispatcher-event-loop-2] INFO  - Starting task 0.0 in stage 1.0 (TID 8) (Dell-MAIN-A, executor driver, partition 0, PROCESS_LOCAL, 142866 bytes) 
+14:06:44.497 [Executor task launch worker for task 0.0 in stage 1.0 (TID 8)] INFO  - Running task 0.0 in stage 1.0 (TID 8)
+14:06:44.513 [dispatcher-event-loop-2] INFO  - Starting task 1.0 in stage 1.0 (TID 9) (Dell-MAIN-A, executor driver, partition 1, PROCESS_LOCAL, 151838 bytes) 
+14:06:44.513 [Executor task launch worker for task 1.0 in stage 1.0 (TID 9)] INFO  - Running task 1.0 in stage 1.0 (TID 9)
+14:06:44.553 [dispatcher-event-loop-2] INFO  - Starting task 2.0 in stage 1.0 (TID 10) (Dell-MAIN-A, executor driver, partition 2, PROCESS_LOCAL, 173260 bytes) 
+14:06:44.553 [Executor task launch worker for task 2.0 in stage 1.0 (TID 10)] INFO  - Running task 2.0 in stage 1.0 (TID 10)
+14:06:44.585 [dispatcher-event-loop-2] INFO  - Starting task 3.0 in stage 1.0 (TID 11) (Dell-MAIN-A, executor driver, partition 3, PROCESS_LOCAL, 150385 bytes) 
+14:06:44.593 [Executor task launch worker for task 3.0 in stage 1.0 (TID 11)] INFO  - Running task 3.0 in stage 1.0 (TID 11)
+14:06:44.633 [dispatcher-event-loop-2] INFO  - Starting task 4.0 in stage 1.0 (TID 12) (Dell-MAIN-A, executor driver, partition 4, PROCESS_LOCAL, 142483 bytes) 
+14:06:44.639 [Executor task launch worker for task 4.0 in stage 1.0 (TID 12)] INFO  - Running task 4.0 in stage 1.0 (TID 12)
+14:06:44.639 [task-result-getter-3] INFO  - Finished task 3.0 in stage 0.0 (TID 3) in 2694 ms on Dell-MAIN-A (executor driver) (1/8)
+14:06:44.642 [task-result-getter-0] INFO  - Finished task 2.0 in stage 0.0 (TID 2) in 2749 ms on Dell-MAIN-A (executor driver) (2/8)
+14:06:44.642 [task-result-getter-1] INFO  - Finished task 0.0 in stage 0.0 (TID 0) in 2878 ms on Dell-MAIN-A (executor driver) (3/8)
+14:06:44.642 [task-result-getter-2] INFO  - Finished task 6.0 in stage 0.0 (TID 6) in 2551 ms on Dell-MAIN-A (executor driver) (4/8)
+14:06:44.674 [dispatcher-event-loop-2] INFO  - Starting task 5.0 in stage 1.0 (TID 13) (Dell-MAIN-A, executor driver, partition 5, PROCESS_LOCAL, 135852 bytes) 
+14:06:44.674 [Executor task launch worker for task 5.0 in stage 1.0 (TID 13)] INFO  - Running task 5.0 in stage 1.0 (TID 13)
+14:06:44.747 [dispatcher-event-loop-2] INFO  - Starting task 6.0 in stage 1.0 (TID 14) (Dell-MAIN-A, executor driver, partition 6, PROCESS_LOCAL, 167729 bytes) 
+14:06:44.747 [task-result-getter-3] INFO  - Finished task 7.0 in stage 0.0 (TID 7) in 2618 ms on Dell-MAIN-A (executor driver) (5/8)
+14:06:44.747 [task-result-getter-0] INFO  - Finished task 5.0 in stage 0.0 (TID 5) in 2698 ms on Dell-MAIN-A (executor driver) (6/8)
+14:06:44.747 [Executor task launch worker for task 6.0 in stage 1.0 (TID 14)] INFO  - Running task 6.0 in stage 1.0 (TID 14)
+14:06:44.763 [task-result-getter-1] INFO  - Finished task 1.0 in stage 0.0 (TID 1) in 2901 ms on Dell-MAIN-A (executor driver) (7/8)
+14:06:44.795 [dispatcher-event-loop-2] INFO  - Starting task 7.0 in stage 1.0 (TID 15) (Dell-MAIN-A, executor driver, partition 7, PROCESS_LOCAL, 100163 bytes) 
+14:06:44.795 [task-result-getter-2] INFO  - Finished task 4.0 in stage 0.0 (TID 4) in 2803 ms on Dell-MAIN-A (executor driver) (8/8)
+14:06:44.795 [task-result-getter-2] INFO  - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+14:06:44.795 [Executor task launch worker for task 7.0 in stage 1.0 (TID 15)] INFO  - Running task 7.0 in stage 1.0 (TID 15)
+14:06:44.795 [dag-scheduler-event-loop] INFO  - ShuffleMapStage 0 (mapPartitions at VertexRDD.scala:356) finished in 3,290 s
+14:06:44.803 [dag-scheduler-event-loop] INFO  - looking for newly runnable stages
+14:06:44.803 [dag-scheduler-event-loop] INFO  - running: HashSet(ShuffleMapStage 1)
+14:06:44.803 [dag-scheduler-event-loop] INFO  - waiting: HashSet(ShuffleMapStage 2, ShuffleMapStage 3, ResultStage 4)
+14:06:44.803 [dag-scheduler-event-loop] INFO  - failed: HashSet()
+14:06:44.894 [Executor task launch worker for task 5.0 in stage 1.0 (TID 13)] INFO  - Finished task 5.0 in stage 1.0 (TID 13). 1139 bytes result sent to driver
+14:06:44.894 [task-result-getter-3] INFO  - Finished task 5.0 in stage 1.0 (TID 13) in 248 ms on Dell-MAIN-A (executor driver) (1/8)
+14:06:44.940 [Executor task launch worker for task 0.0 in stage 1.0 (TID 8)] INFO  - Finished task 0.0 in stage 1.0 (TID 8). 1182 bytes result sent to driver
+14:06:44.948 [Executor task launch worker for task 7.0 in stage 1.0 (TID 15)] INFO  - Finished task 7.0 in stage 1.0 (TID 15). 1139 bytes result sent to driver
+14:06:44.948 [task-result-getter-0] INFO  - Finished task 0.0 in stage 1.0 (TID 8) in 497 ms on Dell-MAIN-A (executor driver) (2/8)
+14:06:44.948 [task-result-getter-1] INFO  - Finished task 7.0 in stage 1.0 (TID 15) in 185 ms on Dell-MAIN-A (executor driver) (3/8)
+14:06:44.956 [Executor task launch worker for task 4.0 in stage 1.0 (TID 12)] INFO  - Finished task 4.0 in stage 1.0 (TID 12). 1139 bytes result sent to driver
+14:06:44.956 [task-result-getter-2] INFO  - Finished task 4.0 in stage 1.0 (TID 12) in 363 ms on Dell-MAIN-A (executor driver) (4/8)
+14:06:44.982 [Executor task launch worker for task 6.0 in stage 1.0 (TID 14)] INFO  - Finished task 6.0 in stage 1.0 (TID 14). 1139 bytes result sent to driver
+14:06:44.986 [task-result-getter-3] INFO  - Finished task 6.0 in stage 1.0 (TID 14) in 312 ms on Dell-MAIN-A (executor driver) (5/8)
+14:06:44.997 [Executor task launch worker for task 2.0 in stage 1.0 (TID 10)] INFO  - Finished task 2.0 in stage 1.0 (TID 10). 1139 bytes result sent to driver
+14:06:44.997 [task-result-getter-0] INFO  - Finished task 2.0 in stage 1.0 (TID 10) in 484 ms on Dell-MAIN-A (executor driver) (6/8)
+14:06:45.013 [Executor task launch worker for task 1.0 in stage 1.0 (TID 9)] INFO  - Finished task 1.0 in stage 1.0 (TID 9). 1139 bytes result sent to driver
+14:06:45.013 [Executor task launch worker for task 3.0 in stage 1.0 (TID 11)] INFO  - Finished task 3.0 in stage 1.0 (TID 11). 1182 bytes result sent to driver
+14:06:45.021 [task-result-getter-1] INFO  - Finished task 1.0 in stage 1.0 (TID 9) in 532 ms on Dell-MAIN-A (executor driver) (7/8)
+14:06:45.024 [task-result-getter-2] INFO  - Finished task 3.0 in stage 1.0 (TID 11) in 471 ms on Dell-MAIN-A (executor driver) (8/8)
+14:06:45.024 [task-result-getter-2] INFO  - Removed TaskSet 1.0, whose tasks have all completed, from pool 
+14:06:45.029 [dag-scheduler-event-loop] INFO  - ShuffleMapStage 1 (parallelize at ReadGraph.scala:36) finished in 3,301 s
+14:06:45.029 [dag-scheduler-event-loop] INFO  - looking for newly runnable stages
+14:06:45.029 [dag-scheduler-event-loop] INFO  - running: HashSet()
+14:06:45.029 [dag-scheduler-event-loop] INFO  - waiting: HashSet(ShuffleMapStage 2, ShuffleMapStage 3, ResultStage 4)
+14:06:45.029 [dag-scheduler-event-loop] INFO  - failed: HashSet()
+14:06:45.031 [dag-scheduler-event-loop] INFO  - Submitting ShuffleMapStage 2 (ReplicatedVertexView.upgrade(true, true) - shippedVerts true true (broadcast) MapPartitionsRDD[16] at mapPartitions at VertexRDDImpl.scala:247), which has no missing parents
+14:06:45.077 [dag-scheduler-event-loop] INFO  - Block broadcast_2 stored as values in memory (estimated size 7.7 KiB, free 59.8 GiB)
+14:06:45.094 [dag-scheduler-event-loop] INFO  - Block broadcast_2_piece0 stored as bytes in memory (estimated size 4.2 KiB, free 59.8 GiB)
+14:06:45.094 [dispatcher-BlockManagerMaster] INFO  - Added broadcast_2_piece0 in memory on Dell-MAIN-A:49934 (size: 4.2 KiB, free: 59.8 GiB)
+14:06:45.094 [dag-scheduler-event-loop] INFO  - Created broadcast 2 from broadcast at DAGScheduler.scala:1580
+14:06:45.094 [dag-scheduler-event-loop] INFO  - Submitting 8 missing tasks from ShuffleMapStage 2 (ReplicatedVertexView.upgrade(true, true) - shippedVerts true true (broadcast) MapPartitionsRDD[16] at mapPartitions at VertexRDDImpl.scala:247) (first 15 tasks are for partitions Vector(0, 1, 2, 3, 4, 5, 6, 7))
+14:06:45.094 [dag-scheduler-event-loop] INFO  - Adding task set 2.0 with 8 tasks resource profile 0
+14:06:45.119 [dispatcher-event-loop-3] INFO  - Starting task 0.0 in stage 2.0 (TID 16) (Dell-MAIN-A, executor driver, partition 0, NODE_LOCAL, 7990 bytes) 
+14:06:45.119 [dispatcher-event-loop-3] INFO  - Starting task 1.0 in stage 2.0 (TID 17) (Dell-MAIN-A, executor driver, partition 1, NODE_LOCAL, 7990 bytes) 
+14:06:45.119 [dispatcher-event-loop-3] INFO  - Starting task 2.0 in stage 2.0 (TID 18) (Dell-MAIN-A, executor driver, partition 2, NODE_LOCAL, 7990 bytes) 
+14:06:45.119 [dispatcher-event-loop-3] INFO  - Starting task 3.0 in stage 2.0 (TID 19) (Dell-MAIN-A, executor driver, partition 3, NODE_LOCAL, 7990 bytes) 
+14:06:45.119 [dispatcher-event-loop-3] INFO  - Starting task 4.0 in stage 2.0 (TID 20) (Dell-MAIN-A, executor driver, partition 4, NODE_LOCAL, 7990 bytes) 
+14:06:45.119 [dispatcher-event-loop-3] INFO  - Starting task 5.0 in stage 2.0 (TID 21) (Dell-MAIN-A, executor driver, partition 5, NODE_LOCAL, 7990 bytes) 
+14:06:45.119 [dispatcher-event-loop-3] INFO  - Starting task 6.0 in stage 2.0 (TID 22) (Dell-MAIN-A, executor driver, partition 6, NODE_LOCAL, 7990 bytes) 
+14:06:45.119 [dispatcher-event-loop-3] INFO  - Starting task 7.0 in stage 2.0 (TID 23) (Dell-MAIN-A, executor driver, partition 7, NODE_LOCAL, 7990 bytes) 
+14:06:45.127 [Executor task launch worker for task 0.0 in stage 2.0 (TID 16)] INFO  - Running task 0.0 in stage 2.0 (TID 16)
+14:06:45.127 [Executor task launch worker for task 3.0 in stage 2.0 (TID 19)] INFO  - Running task 3.0 in stage 2.0 (TID 19)
+14:06:45.127 [Executor task launch worker for task 1.0 in stage 2.0 (TID 17)] INFO  - Running task 1.0 in stage 2.0 (TID 17)
+14:06:45.127 [Executor task launch worker for task 2.0 in stage 2.0 (TID 18)] INFO  - Running task 2.0 in stage 2.0 (TID 18)
+14:06:45.127 [Executor task launch worker for task 4.0 in stage 2.0 (TID 20)] INFO  - Running task 4.0 in stage 2.0 (TID 20)
+14:06:45.127 [Executor task launch worker for task 6.0 in stage 2.0 (TID 22)] INFO  - Running task 6.0 in stage 2.0 (TID 22)
+14:06:45.127 [Executor task launch worker for task 5.0 in stage 2.0 (TID 21)] INFO  - Running task 5.0 in stage 2.0 (TID 21)
+14:06:45.135 [Executor task launch worker for task 7.0 in stage 2.0 (TID 23)] INFO  - Running task 7.0 in stage 2.0 (TID 23)
+14:06:45.273 [Executor task launch worker for task 4.0 in stage 2.0 (TID 20)] INFO  - Getting 8 (70.6 KiB) non-empty blocks including 8 (70.6 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.278 [Executor task launch worker for task 5.0 in stage 2.0 (TID 21)] INFO  - Getting 8 (62.2 KiB) non-empty blocks including 8 (62.2 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.278 [Executor task launch worker for task 7.0 in stage 2.0 (TID 23)] INFO  - Getting 8 (79.5 KiB) non-empty blocks including 8 (79.5 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.273 [Executor task launch worker for task 6.0 in stage 2.0 (TID 22)] INFO  - Getting 8 (78.7 KiB) non-empty blocks including 8 (78.7 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.278 [Executor task launch worker for task 0.0 in stage 2.0 (TID 16)] INFO  - Getting 8 (89.3 KiB) non-empty blocks including 8 (89.3 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.279 [Executor task launch worker for task 1.0 in stage 2.0 (TID 17)] INFO  - Getting 8 (80.3 KiB) non-empty blocks including 8 (80.3 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.273 [Executor task launch worker for task 2.0 in stage 2.0 (TID 18)] INFO  - Getting 8 (77.4 KiB) non-empty blocks including 8 (77.4 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.279 [Executor task launch worker for task 3.0 in stage 2.0 (TID 19)] INFO  - Getting 8 (57.2 KiB) non-empty blocks including 8 (57.2 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.279 [Executor task launch worker for task 6.0 in stage 2.0 (TID 22)] INFO  - Started 0 remote fetches in 30 ms
+14:06:45.279 [Executor task launch worker for task 3.0 in stage 2.0 (TID 19)] INFO  - Started 0 remote fetches in 32 ms
+14:06:45.279 [Executor task launch worker for task 2.0 in stage 2.0 (TID 18)] INFO  - Started 0 remote fetches in 30 ms
+14:06:45.279 [Executor task launch worker for task 7.0 in stage 2.0 (TID 23)] INFO  - Started 0 remote fetches in 32 ms
+14:06:45.279 [Executor task launch worker for task 0.0 in stage 2.0 (TID 16)] INFO  - Started 0 remote fetches in 29 ms
+14:06:45.279 [Executor task launch worker for task 5.0 in stage 2.0 (TID 21)] INFO  - Started 0 remote fetches in 32 ms
+14:06:45.279 [Executor task launch worker for task 4.0 in stage 2.0 (TID 20)] INFO  - Started 0 remote fetches in 32 ms
+14:06:45.284 [Executor task launch worker for task 1.0 in stage 2.0 (TID 17)] INFO  - Started 0 remote fetches in 31 ms
+14:06:45.302 [Executor task launch worker for task 5.0 in stage 2.0 (TID 21)] INFO  - Getting 8 (953.0 B) non-empty blocks including 8 (953.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.302 [Executor task launch worker for task 2.0 in stage 2.0 (TID 18)] INFO  - Getting 8 (896.0 B) non-empty blocks including 8 (896.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.302 [Executor task launch worker for task 5.0 in stage 2.0 (TID 21)] INFO  - Started 0 remote fetches in 1 ms
+14:06:45.302 [Executor task launch worker for task 2.0 in stage 2.0 (TID 18)] INFO  - Started 0 remote fetches in 0 ms
+14:06:45.302 [Executor task launch worker for task 4.0 in stage 2.0 (TID 20)] INFO  - Getting 8 (916.0 B) non-empty blocks including 8 (916.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.302 [Executor task launch worker for task 4.0 in stage 2.0 (TID 20)] INFO  - Started 0 remote fetches in 1 ms
+14:06:45.310 [Executor task launch worker for task 1.0 in stage 2.0 (TID 17)] INFO  - Getting 8 (909.0 B) non-empty blocks including 8 (909.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.310 [Executor task launch worker for task 1.0 in stage 2.0 (TID 17)] INFO  - Started 0 remote fetches in 1 ms
+14:06:45.310 [Executor task launch worker for task 6.0 in stage 2.0 (TID 22)] INFO  - Getting 8 (938.0 B) non-empty blocks including 8 (938.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.310 [Executor task launch worker for task 6.0 in stage 2.0 (TID 22)] INFO  - Started 0 remote fetches in 1 ms
+14:06:45.310 [Executor task launch worker for task 0.0 in stage 2.0 (TID 16)] INFO  - Getting 8 (1024.0 B) non-empty blocks including 8 (1024.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.310 [Executor task launch worker for task 0.0 in stage 2.0 (TID 16)] INFO  - Started 0 remote fetches in 2 ms
+14:06:45.310 [Executor task launch worker for task 7.0 in stage 2.0 (TID 23)] INFO  - Getting 8 (996.0 B) non-empty blocks including 8 (996.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.310 [Executor task launch worker for task 7.0 in stage 2.0 (TID 23)] INFO  - Started 0 remote fetches in 0 ms
+14:06:45.310 [Executor task launch worker for task 3.0 in stage 2.0 (TID 19)] INFO  - Getting 8 (945.0 B) non-empty blocks including 8 (945.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:45.310 [Executor task launch worker for task 3.0 in stage 2.0 (TID 19)] INFO  - Started 0 remote fetches in 1 ms
+14:06:45.650 [Executor task launch worker for task 3.0 in stage 2.0 (TID 19)] INFO  - Block rdd_9_3 stored as values in memory (estimated size 321.7 KiB, free 59.8 GiB)
+14:06:45.650 [dispatcher-BlockManagerMaster] INFO  - Added rdd_9_3 in memory on Dell-MAIN-A:49934 (size: 321.7 KiB, free: 59.8 GiB)
+14:06:45.650 [Executor task launch worker for task 6.0 in stage 2.0 (TID 22)] INFO  - Block rdd_9_6 stored as values in memory (estimated size 464.0 KiB, free 59.8 GiB)
+14:06:45.666 [Executor task launch worker for task 1.0 in stage 2.0 (TID 17)] INFO  - Block rdd_9_1 stored as values in memory (estimated size 480.8 KiB, free 59.8 GiB)
+14:06:45.666 [Executor task launch worker for task 2.0 in stage 2.0 (TID 18)] INFO  - Block rdd_9_2 stored as values in memory (estimated size 451.6 KiB, free 59.8 GiB)
+14:06:45.682 [dispatcher-BlockManagerMaster] INFO  - Added rdd_9_1 in memory on Dell-MAIN-A:49934 (size: 480.8 KiB, free: 59.8 GiB)
+14:06:45.682 [dispatcher-BlockManagerMaster] INFO  - Added rdd_9_2 in memory on Dell-MAIN-A:49934 (size: 451.6 KiB, free: 59.8 GiB)
+14:06:45.682 [dispatcher-BlockManagerMaster] INFO  - Added rdd_9_6 in memory on Dell-MAIN-A:49934 (size: 464.0 KiB, free: 59.8 GiB)
+14:06:45.682 [Executor task launch worker for task 5.0 in stage 2.0 (TID 21)] INFO  - Block rdd_9_5 stored as values in memory (estimated size 350.7 KiB, free 59.8 GiB)
+14:06:45.682 [dispatcher-BlockManagerMaster] INFO  - Added rdd_9_5 in memory on Dell-MAIN-A:49934 (size: 350.7 KiB, free: 59.8 GiB)
+14:06:45.848 [Executor task launch worker for task 4.0 in stage 2.0 (TID 20)] INFO  - Block rdd_9_4 stored as values in memory (estimated size 405.1 KiB, free 59.8 GiB)
+14:06:45.854 [dispatcher-BlockManagerMaster] INFO  - Added rdd_9_4 in memory on Dell-MAIN-A:49934 (size: 405.1 KiB, free: 59.8 GiB)
+14:06:45.870 [Executor task launch worker for task 0.0 in stage 2.0 (TID 16)] INFO  - Block rdd_9_0 stored as values in memory (estimated size 518.6 KiB, free 59.8 GiB)
+14:06:45.885 [dispatcher-BlockManagerMaster] INFO  - Added rdd_9_0 in memory on Dell-MAIN-A:49934 (size: 518.6 KiB, free: 59.8 GiB)
+14:06:45.885 [Executor task launch worker for task 7.0 in stage 2.0 (TID 23)] INFO  - Block rdd_9_7 stored as values in memory (estimated size 467.4 KiB, free 59.8 GiB)
+14:06:45.885 [dispatcher-BlockManagerMaster] INFO  - Added rdd_9_7 in memory on Dell-MAIN-A:49934 (size: 467.4 KiB, free: 59.8 GiB)
+14:06:45.943 [Executor task launch worker for task 3.0 in stage 2.0 (TID 19)] INFO  - Finished task 3.0 in stage 2.0 (TID 19). 1870 bytes result sent to driver
+14:06:45.949 [task-result-getter-3] INFO  - Finished task 3.0 in stage 2.0 (TID 19) in 830 ms on Dell-MAIN-A (executor driver) (1/8)
+14:06:45.975 [Executor task launch worker for task 5.0 in stage 2.0 (TID 21)] INFO  - Finished task 5.0 in stage 2.0 (TID 21). 1870 bytes result sent to driver
+14:06:45.975 [task-result-getter-0] INFO  - Finished task 5.0 in stage 2.0 (TID 21) in 856 ms on Dell-MAIN-A (executor driver) (2/8)
+14:06:46.030 [Executor task launch worker for task 4.0 in stage 2.0 (TID 20)] INFO  - Finished task 4.0 in stage 2.0 (TID 20). 1827 bytes result sent to driver
+14:06:46.030 [task-result-getter-1] INFO  - Finished task 4.0 in stage 2.0 (TID 20) in 911 ms on Dell-MAIN-A (executor driver) (3/8)
+14:06:46.030 [Executor task launch worker for task 0.0 in stage 2.0 (TID 16)] INFO  - Finished task 0.0 in stage 2.0 (TID 16). 1870 bytes result sent to driver
+14:06:46.035 [task-result-getter-2] INFO  - Finished task 0.0 in stage 2.0 (TID 16) in 923 ms on Dell-MAIN-A (executor driver) (4/8)
+14:06:46.040 [Executor task launch worker for task 7.0 in stage 2.0 (TID 23)] INFO  - Finished task 7.0 in stage 2.0 (TID 23). 1870 bytes result sent to driver
+14:06:46.041 [task-result-getter-3] INFO  - Finished task 7.0 in stage 2.0 (TID 23) in 922 ms on Dell-MAIN-A (executor driver) (5/8)
+14:06:46.047 [Executor task launch worker for task 2.0 in stage 2.0 (TID 18)] INFO  - Finished task 2.0 in stage 2.0 (TID 18). 1827 bytes result sent to driver
+14:06:46.048 [task-result-getter-0] INFO  - Finished task 2.0 in stage 2.0 (TID 18) in 929 ms on Dell-MAIN-A (executor driver) (6/8)
+14:06:46.048 [Executor task launch worker for task 1.0 in stage 2.0 (TID 17)] INFO  - Finished task 1.0 in stage 2.0 (TID 17). 1827 bytes result sent to driver
+14:06:46.053 [task-result-getter-1] INFO  - Finished task 1.0 in stage 2.0 (TID 17) in 934 ms on Dell-MAIN-A (executor driver) (7/8)
+14:06:46.056 [Executor task launch worker for task 6.0 in stage 2.0 (TID 22)] INFO  - Finished task 6.0 in stage 2.0 (TID 22). 1870 bytes result sent to driver
+14:06:46.056 [task-result-getter-2] INFO  - Finished task 6.0 in stage 2.0 (TID 22) in 937 ms on Dell-MAIN-A (executor driver) (8/8)
+14:06:46.056 [task-result-getter-2] INFO  - Removed TaskSet 2.0, whose tasks have all completed, from pool 
+14:06:46.062 [dag-scheduler-event-loop] INFO  - ShuffleMapStage 2 (mapPartitions at VertexRDDImpl.scala:247) finished in 1,008 s
+14:06:46.062 [dag-scheduler-event-loop] INFO  - looking for newly runnable stages
+14:06:46.062 [dag-scheduler-event-loop] INFO  - running: HashSet()
+14:06:46.063 [dag-scheduler-event-loop] INFO  - waiting: HashSet(ShuffleMapStage 3, ResultStage 4)
+14:06:46.063 [dag-scheduler-event-loop] INFO  - failed: HashSet()
+14:06:46.063 [dag-scheduler-event-loop] INFO  - Submitting ShuffleMapStage 3 (GraphImpl.aggregateMessages - preAgg MapPartitionsRDD[20] at mapPartitions at GraphImpl.scala:207), which has no missing parents
+14:06:46.070 [dag-scheduler-event-loop] INFO  - Block broadcast_3 stored as values in memory (estimated size 8.6 KiB, free 59.8 GiB)
+14:06:46.073 [dag-scheduler-event-loop] INFO  - Block broadcast_3_piece0 stored as bytes in memory (estimated size 4.3 KiB, free 59.8 GiB)
+14:06:46.075 [dispatcher-BlockManagerMaster] INFO  - Added broadcast_3_piece0 in memory on Dell-MAIN-A:49934 (size: 4.3 KiB, free: 59.8 GiB)
+14:06:46.077 [dag-scheduler-event-loop] INFO  - Created broadcast 3 from broadcast at DAGScheduler.scala:1580
+14:06:46.077 [dag-scheduler-event-loop] INFO  - Submitting 8 missing tasks from ShuffleMapStage 3 (GraphImpl.aggregateMessages - preAgg MapPartitionsRDD[20] at mapPartitions at GraphImpl.scala:207) (first 15 tasks are for partitions Vector(0, 1, 2, 3, 4, 5, 6, 7))
+14:06:46.077 [dag-scheduler-event-loop] INFO  - Adding task set 3.0 with 8 tasks resource profile 0
+14:06:46.086 [dispatcher-event-loop-4] INFO  - Starting task 0.0 in stage 3.0 (TID 24) (Dell-MAIN-A, executor driver, partition 0, NODE_LOCAL, 407429 bytes) 
+14:06:46.102 [dispatcher-event-loop-4] INFO  - Starting task 1.0 in stage 3.0 (TID 25) (Dell-MAIN-A, executor driver, partition 1, NODE_LOCAL, 377125 bytes) 
+14:06:46.118 [dispatcher-event-loop-4] INFO  - Starting task 2.0 in stage 3.0 (TID 26) (Dell-MAIN-A, executor driver, partition 2, NODE_LOCAL, 423655 bytes) 
+14:06:46.136 [dispatcher-event-loop-4] INFO  - Starting task 3.0 in stage 3.0 (TID 27) (Dell-MAIN-A, executor driver, partition 3, NODE_LOCAL, 452147 bytes) 
+14:06:46.168 [dispatcher-event-loop-4] INFO  - Starting task 4.0 in stage 3.0 (TID 28) (Dell-MAIN-A, executor driver, partition 4, NODE_LOCAL, 413017 bytes) 
+14:06:46.180 [dispatcher-event-loop-4] INFO  - Starting task 5.0 in stage 3.0 (TID 29) (Dell-MAIN-A, executor driver, partition 5, NODE_LOCAL, 421806 bytes) 
+14:06:46.197 [dispatcher-event-loop-4] INFO  - Starting task 6.0 in stage 3.0 (TID 30) (Dell-MAIN-A, executor driver, partition 6, NODE_LOCAL, 445826 bytes) 
+14:06:46.213 [dispatcher-event-loop-4] INFO  - Starting task 7.0 in stage 3.0 (TID 31) (Dell-MAIN-A, executor driver, partition 7, NODE_LOCAL, 370345 bytes) 
+14:06:46.213 [Executor task launch worker for task 1.0 in stage 3.0 (TID 25)] INFO  - Running task 1.0 in stage 3.0 (TID 25)
+14:06:46.213 [Executor task launch worker for task 0.0 in stage 3.0 (TID 24)] INFO  - Running task 0.0 in stage 3.0 (TID 24)
+14:06:46.213 [Executor task launch worker for task 2.0 in stage 3.0 (TID 26)] INFO  - Running task 2.0 in stage 3.0 (TID 26)
+14:06:46.217 [Executor task launch worker for task 3.0 in stage 3.0 (TID 27)] INFO  - Running task 3.0 in stage 3.0 (TID 27)
+14:06:46.217 [Executor task launch worker for task 4.0 in stage 3.0 (TID 28)] INFO  - Running task 4.0 in stage 3.0 (TID 28)
+14:06:46.220 [Executor task launch worker for task 5.0 in stage 3.0 (TID 29)] INFO  - Running task 5.0 in stage 3.0 (TID 29)
+14:06:46.220 [Executor task launch worker for task 7.0 in stage 3.0 (TID 31)] INFO  - Running task 7.0 in stage 3.0 (TID 31)
+14:06:46.220 [Executor task launch worker for task 6.0 in stage 3.0 (TID 30)] INFO  - Running task 6.0 in stage 3.0 (TID 30)
+14:06:46.402 [Executor task launch worker for task 1.0 in stage 3.0 (TID 25)] INFO  - Block rdd_12_1 stored as values in memory (estimated size 1108.2 KiB, free 59.8 GiB)
+14:06:46.402 [Executor task launch worker for task 0.0 in stage 3.0 (TID 24)] INFO  - Block rdd_12_0 stored as values in memory (estimated size 1196.6 KiB, free 59.8 GiB)
+14:06:46.402 [Executor task launch worker for task 4.0 in stage 3.0 (TID 28)] INFO  - Block rdd_12_4 stored as values in memory (estimated size 1217.3 KiB, free 59.8 GiB)
+14:06:46.402 [Executor task launch worker for task 7.0 in stage 3.0 (TID 31)] INFO  - Block rdd_12_7 stored as values in memory (estimated size 1082.2 KiB, free 59.8 GiB)
+14:06:46.412 [dispatcher-BlockManagerMaster] INFO  - Added rdd_12_1 in memory on Dell-MAIN-A:49934 (size: 1108.2 KiB, free: 59.8 GiB)
+14:06:46.414 [dispatcher-BlockManagerMaster] INFO  - Added rdd_12_0 in memory on Dell-MAIN-A:49934 (size: 1196.6 KiB, free: 59.8 GiB)
+14:06:46.426 [Executor task launch worker for task 1.0 in stage 3.0 (TID 25)] INFO  - Getting 8 (96.6 KiB) non-empty blocks including 8 (96.6 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:46.426 [Executor task launch worker for task 1.0 in stage 3.0 (TID 25)] INFO  - Started 0 remote fetches in 3 ms
+14:06:46.426 [dispatcher-BlockManagerMaster] INFO  - Added rdd_12_7 in memory on Dell-MAIN-A:49934 (size: 1082.2 KiB, free: 59.8 GiB)
+14:06:46.426 [dispatcher-BlockManagerMaster] INFO  - Added rdd_12_4 in memory on Dell-MAIN-A:49934 (size: 1217.3 KiB, free: 59.8 GiB)
+14:06:46.426 [Executor task launch worker for task 4.0 in stage 3.0 (TID 28)] INFO  - Getting 8 (101.0 KiB) non-empty blocks including 8 (101.0 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:46.426 [Executor task launch worker for task 4.0 in stage 3.0 (TID 28)] INFO  - Started 0 remote fetches in 1 ms
+14:06:46.426 [Executor task launch worker for task 0.0 in stage 3.0 (TID 24)] INFO  - Getting 8 (105.8 KiB) non-empty blocks including 8 (105.8 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:46.435 [Executor task launch worker for task 0.0 in stage 3.0 (TID 24)] INFO  - Started 0 remote fetches in 8 ms
+14:06:46.438 [Executor task launch worker for task 7.0 in stage 3.0 (TID 31)] INFO  - Getting 8 (89.9 KiB) non-empty blocks including 8 (89.9 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:46.449 [Executor task launch worker for task 7.0 in stage 3.0 (TID 31)] INFO  - Started 0 remote fetches in 14 ms
+14:06:46.449 [Executor task launch worker for task 6.0 in stage 3.0 (TID 30)] INFO  - Block rdd_12_6 stored as values in memory (estimated size 1317.8 KiB, free 59.8 GiB)
+14:06:46.457 [Executor task launch worker for task 3.0 in stage 3.0 (TID 27)] INFO  - Block rdd_12_3 stored as values in memory (estimated size 1333.6 KiB, free 59.8 GiB)
+14:06:46.457 [Executor task launch worker for task 2.0 in stage 3.0 (TID 26)] INFO  - Block rdd_12_2 stored as values in memory (estimated size 1242.0 KiB, free 59.8 GiB)
+14:06:46.457 [dispatcher-BlockManagerMaster] INFO  - Added rdd_12_6 in memory on Dell-MAIN-A:49934 (size: 1317.8 KiB, free: 59.8 GiB)
+14:06:46.457 [dispatcher-BlockManagerMaster] INFO  - Added rdd_12_3 in memory on Dell-MAIN-A:49934 (size: 1333.6 KiB, free: 59.8 GiB)
+14:06:46.457 [dispatcher-BlockManagerMaster] INFO  - Added rdd_12_2 in memory on Dell-MAIN-A:49934 (size: 1242.0 KiB, free: 59.8 GiB)
+14:06:46.457 [Executor task launch worker for task 2.0 in stage 3.0 (TID 26)] INFO  - Getting 8 (112.5 KiB) non-empty blocks including 8 (112.5 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:46.457 [Executor task launch worker for task 2.0 in stage 3.0 (TID 26)] INFO  - Started 0 remote fetches in 1 ms
+14:06:46.457 [Executor task launch worker for task 6.0 in stage 3.0 (TID 30)] INFO  - Getting 8 (116.5 KiB) non-empty blocks including 8 (116.5 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:46.457 [Executor task launch worker for task 6.0 in stage 3.0 (TID 30)] INFO  - Started 0 remote fetches in 1 ms
+14:06:46.473 [Executor task launch worker for task 3.0 in stage 3.0 (TID 27)] INFO  - Getting 8 (106.5 KiB) non-empty blocks including 8 (106.5 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:46.473 [Executor task launch worker for task 3.0 in stage 3.0 (TID 27)] INFO  - Started 0 remote fetches in 1 ms
+14:06:46.508 [Executor task launch worker for task 5.0 in stage 3.0 (TID 29)] INFO  - Block rdd_12_5 stored as values in memory (estimated size 1240.4 KiB, free 59.8 GiB)
+14:06:46.519 [dispatcher-BlockManagerMaster] INFO  - Added rdd_12_5 in memory on Dell-MAIN-A:49934 (size: 1240.4 KiB, free: 59.8 GiB)
+14:06:46.519 [Executor task launch worker for task 5.0 in stage 3.0 (TID 29)] INFO  - Getting 8 (110.4 KiB) non-empty blocks including 8 (110.4 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:46.519 [Executor task launch worker for task 5.0 in stage 3.0 (TID 29)] INFO  - Started 0 remote fetches in 1 ms
+14:06:46.598 [dispatcher-BlockManagerMaster] INFO  - Removed broadcast_0_piece0 on Dell-MAIN-A:49934 in memory (size: 3.4 KiB, free: 59.8 GiB)
+14:06:46.670 [dispatcher-BlockManagerMaster] INFO  - Removed broadcast_1_piece0 on Dell-MAIN-A:49934 in memory (size: 1864.0 B, free: 59.8 GiB)
+14:06:46.758 [Executor task launch worker for task 5.0 in stage 3.0 (TID 29)] INFO  - Finished task 5.0 in stage 3.0 (TID 29). 1913 bytes result sent to driver
+14:06:46.761 [task-result-getter-3] INFO  - Finished task 5.0 in stage 3.0 (TID 29) in 593 ms on Dell-MAIN-A (executor driver) (1/8)
+14:06:46.778 [Executor task launch worker for task 3.0 in stage 3.0 (TID 27)] INFO  - Finished task 3.0 in stage 3.0 (TID 27). 1956 bytes result sent to driver
+14:06:46.782 [task-result-getter-0] INFO  - Finished task 3.0 in stage 3.0 (TID 27) in 664 ms on Dell-MAIN-A (executor driver) (2/8)
+14:06:46.852 [dispatcher-BlockManagerMaster] INFO  - Removed broadcast_2_piece0 on Dell-MAIN-A:49934 in memory (size: 4.2 KiB, free: 59.8 GiB)
+14:06:46.867 [Executor task launch worker for task 6.0 in stage 3.0 (TID 30)] INFO  - Finished task 6.0 in stage 3.0 (TID 30). 1913 bytes result sent to driver
+14:06:46.882 [task-result-getter-1] INFO  - Finished task 6.0 in stage 3.0 (TID 30) in 702 ms on Dell-MAIN-A (executor driver) (3/8)
+14:06:46.882 [Executor task launch worker for task 7.0 in stage 3.0 (TID 31)] INFO  - Finished task 7.0 in stage 3.0 (TID 31). 1913 bytes result sent to driver
+14:06:46.882 [task-result-getter-2] INFO  - Finished task 7.0 in stage 3.0 (TID 31) in 685 ms on Dell-MAIN-A (executor driver) (4/8)
+14:06:46.974 [Executor task launch worker for task 1.0 in stage 3.0 (TID 25)] INFO  - Finished task 1.0 in stage 3.0 (TID 25). 1956 bytes result sent to driver
+14:06:46.986 [task-result-getter-3] INFO  - Finished task 1.0 in stage 3.0 (TID 25) in 900 ms on Dell-MAIN-A (executor driver) (5/8)
+14:06:47.058 [Executor task launch worker for task 0.0 in stage 3.0 (TID 24)] INFO  - Finished task 0.0 in stage 3.0 (TID 24). 1913 bytes result sent to driver
+14:06:47.058 [task-result-getter-0] INFO  - Finished task 0.0 in stage 3.0 (TID 24) in 981 ms on Dell-MAIN-A (executor driver) (6/8)
+14:06:47.058 [Executor task launch worker for task 2.0 in stage 3.0 (TID 26)] INFO  - Finished task 2.0 in stage 3.0 (TID 26). 1913 bytes result sent to driver
+14:06:47.058 [task-result-getter-1] INFO  - Finished task 2.0 in stage 3.0 (TID 26) in 956 ms on Dell-MAIN-A (executor driver) (7/8)
+14:06:47.074 [Executor task launch worker for task 4.0 in stage 3.0 (TID 28)] INFO  - Finished task 4.0 in stage 3.0 (TID 28). 1913 bytes result sent to driver
+14:06:47.075 [task-result-getter-2] INFO  - Finished task 4.0 in stage 3.0 (TID 28) in 927 ms on Dell-MAIN-A (executor driver) (8/8)
+14:06:47.075 [task-result-getter-2] INFO  - Removed TaskSet 3.0, whose tasks have all completed, from pool 
+14:06:47.077 [dag-scheduler-event-loop] INFO  - ShuffleMapStage 3 (mapPartitions at GraphImpl.scala:207) finished in 1,010 s
+14:06:47.077 [dag-scheduler-event-loop] INFO  - looking for newly runnable stages
+14:06:47.077 [dag-scheduler-event-loop] INFO  - running: HashSet()
+14:06:47.077 [dag-scheduler-event-loop] INFO  - waiting: HashSet(ResultStage 4)
+14:06:47.077 [dag-scheduler-event-loop] INFO  - failed: HashSet()
+14:06:47.078 [dag-scheduler-event-loop] INFO  - Submitting ResultStage 4 (MapPartitionsRDD[29] at map at GraphUtils.scala:15), which has no missing parents
+14:06:47.078 [dag-scheduler-event-loop] INFO  - Block broadcast_4 stored as values in memory (estimated size 11.5 KiB, free 59.8 GiB)
+14:06:47.089 [dag-scheduler-event-loop] INFO  - Block broadcast_4_piece0 stored as bytes in memory (estimated size 5.4 KiB, free 59.8 GiB)
+14:06:47.089 [dispatcher-BlockManagerMaster] INFO  - Added broadcast_4_piece0 in memory on Dell-MAIN-A:49934 (size: 5.4 KiB, free: 59.8 GiB)
+14:06:47.089 [dag-scheduler-event-loop] INFO  - Created broadcast 4 from broadcast at DAGScheduler.scala:1580
+14:06:47.089 [dag-scheduler-event-loop] INFO  - Submitting 8 missing tasks from ResultStage 4 (MapPartitionsRDD[29] at map at GraphUtils.scala:15) (first 15 tasks are for partitions Vector(0, 1, 2, 3, 4, 5, 6, 7))
+14:06:47.089 [dag-scheduler-event-loop] INFO  - Adding task set 4.0 with 8 tasks resource profile 0
+14:06:47.105 [dispatcher-event-loop-7] INFO  - Starting task 0.0 in stage 4.0 (TID 32) (Dell-MAIN-A, executor driver, partition 0, PROCESS_LOCAL, 8338 bytes) 
+14:06:47.105 [dispatcher-event-loop-7] INFO  - Starting task 1.0 in stage 4.0 (TID 33) (Dell-MAIN-A, executor driver, partition 1, PROCESS_LOCAL, 8338 bytes) 
+14:06:47.105 [dispatcher-event-loop-7] INFO  - Starting task 2.0 in stage 4.0 (TID 34) (Dell-MAIN-A, executor driver, partition 2, PROCESS_LOCAL, 8338 bytes) 
+14:06:47.109 [dispatcher-event-loop-7] INFO  - Starting task 3.0 in stage 4.0 (TID 35) (Dell-MAIN-A, executor driver, partition 3, PROCESS_LOCAL, 8338 bytes) 
+14:06:47.109 [dispatcher-event-loop-7] INFO  - Starting task 4.0 in stage 4.0 (TID 36) (Dell-MAIN-A, executor driver, partition 4, PROCESS_LOCAL, 8338 bytes) 
+14:06:47.111 [dispatcher-event-loop-7] INFO  - Starting task 5.0 in stage 4.0 (TID 37) (Dell-MAIN-A, executor driver, partition 5, PROCESS_LOCAL, 8338 bytes) 
+14:06:47.111 [dispatcher-event-loop-7] INFO  - Starting task 6.0 in stage 4.0 (TID 38) (Dell-MAIN-A, executor driver, partition 6, PROCESS_LOCAL, 8338 bytes) 
+14:06:47.111 [dispatcher-event-loop-7] INFO  - Starting task 7.0 in stage 4.0 (TID 39) (Dell-MAIN-A, executor driver, partition 7, PROCESS_LOCAL, 8338 bytes) 
+14:06:47.114 [Executor task launch worker for task 1.0 in stage 4.0 (TID 33)] INFO  - Running task 1.0 in stage 4.0 (TID 33)
+14:06:47.114 [Executor task launch worker for task 2.0 in stage 4.0 (TID 34)] INFO  - Running task 2.0 in stage 4.0 (TID 34)
+14:06:47.114 [Executor task launch worker for task 0.0 in stage 4.0 (TID 32)] INFO  - Running task 0.0 in stage 4.0 (TID 32)
+14:06:47.114 [Executor task launch worker for task 3.0 in stage 4.0 (TID 35)] INFO  - Running task 3.0 in stage 4.0 (TID 35)
+14:06:47.114 [Executor task launch worker for task 6.0 in stage 4.0 (TID 38)] INFO  - Running task 6.0 in stage 4.0 (TID 38)
+14:06:47.114 [Executor task launch worker for task 5.0 in stage 4.0 (TID 37)] INFO  - Running task 5.0 in stage 4.0 (TID 37)
+14:06:47.114 [Executor task launch worker for task 4.0 in stage 4.0 (TID 36)] INFO  - Running task 4.0 in stage 4.0 (TID 36)
+14:06:47.114 [Executor task launch worker for task 7.0 in stage 4.0 (TID 39)] INFO  - Running task 7.0 in stage 4.0 (TID 39)
+14:06:47.526 [Executor task launch worker for task 7.0 in stage 4.0 (TID 39)] INFO  - Found block rdd_9_7 locally
+14:06:47.526 [Executor task launch worker for task 4.0 in stage 4.0 (TID 36)] INFO  - Found block rdd_9_4 locally
+14:06:47.526 [Executor task launch worker for task 7.0 in stage 4.0 (TID 39)] INFO  - Found block rdd_9_7 locally
+14:06:47.526 [Executor task launch worker for task 3.0 in stage 4.0 (TID 35)] INFO  - Found block rdd_9_3 locally
+14:06:47.526 [Executor task launch worker for task 6.0 in stage 4.0 (TID 38)] INFO  - Found block rdd_9_6 locally
+14:06:47.526 [Executor task launch worker for task 3.0 in stage 4.0 (TID 35)] INFO  - Found block rdd_9_3 locally
+14:06:47.526 [Executor task launch worker for task 0.0 in stage 4.0 (TID 32)] INFO  - Found block rdd_9_0 locally
+14:06:47.526 [Executor task launch worker for task 6.0 in stage 4.0 (TID 38)] INFO  - Found block rdd_9_6 locally
+14:06:47.526 [Executor task launch worker for task 1.0 in stage 4.0 (TID 33)] INFO  - Found block rdd_9_1 locally
+14:06:47.526 [Executor task launch worker for task 1.0 in stage 4.0 (TID 33)] INFO  - Found block rdd_9_1 locally
+14:06:47.526 [Executor task launch worker for task 0.0 in stage 4.0 (TID 32)] INFO  - Found block rdd_9_0 locally
+14:06:47.526 [Executor task launch worker for task 7.0 in stage 4.0 (TID 39)] INFO  - Getting 8 (184.7 KiB) non-empty blocks including 8 (184.7 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:47.526 [Executor task launch worker for task 7.0 in stage 4.0 (TID 39)] INFO  - Started 0 remote fetches in 0 ms
+14:06:47.526 [Executor task launch worker for task 4.0 in stage 4.0 (TID 36)] INFO  - Found block rdd_9_4 locally
+14:06:47.526 [Executor task launch worker for task 1.0 in stage 4.0 (TID 33)] INFO  - Getting 8 (289.3 KiB) non-empty blocks including 8 (289.3 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:47.526 [Executor task launch worker for task 6.0 in stage 4.0 (TID 38)] INFO  - Getting 8 (186.3 KiB) non-empty blocks including 8 (186.3 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:47.526 [Executor task launch worker for task 6.0 in stage 4.0 (TID 38)] INFO  - Started 0 remote fetches in 1 ms
+14:06:47.526 [Executor task launch worker for task 0.0 in stage 4.0 (TID 32)] INFO  - Getting 8 (436.9 KiB) non-empty blocks including 8 (436.9 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:47.526 [Executor task launch worker for task 0.0 in stage 4.0 (TID 32)] INFO  - Started 0 remote fetches in 0 ms
+14:06:47.526 [Executor task launch worker for task 5.0 in stage 4.0 (TID 37)] INFO  - Found block rdd_9_5 locally
+14:06:47.526 [Executor task launch worker for task 2.0 in stage 4.0 (TID 34)] INFO  - Found block rdd_9_2 locally
+14:06:47.526 [Executor task launch worker for task 5.0 in stage 4.0 (TID 37)] INFO  - Found block rdd_9_5 locally
+14:06:47.526 [Executor task launch worker for task 3.0 in stage 4.0 (TID 35)] INFO  - Getting 8 (223.2 KiB) non-empty blocks including 8 (223.2 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:47.526 [Executor task launch worker for task 1.0 in stage 4.0 (TID 33)] INFO  - Started 0 remote fetches in 0 ms
+14:06:47.526 [Executor task launch worker for task 3.0 in stage 4.0 (TID 35)] INFO  - Started 0 remote fetches in 2 ms
+14:06:47.526 [Executor task launch worker for task 2.0 in stage 4.0 (TID 34)] INFO  - Found block rdd_9_2 locally
+14:06:47.526 [Executor task launch worker for task 4.0 in stage 4.0 (TID 36)] INFO  - Getting 8 (226.7 KiB) non-empty blocks including 8 (226.7 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:47.526 [Executor task launch worker for task 4.0 in stage 4.0 (TID 36)] INFO  - Started 0 remote fetches in 1 ms
+14:06:47.526 [Executor task launch worker for task 2.0 in stage 4.0 (TID 34)] INFO  - Getting 8 (262.9 KiB) non-empty blocks including 8 (262.9 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:47.526 [Executor task launch worker for task 2.0 in stage 4.0 (TID 34)] INFO  - Started 0 remote fetches in 0 ms
+14:06:47.526 [Executor task launch worker for task 5.0 in stage 4.0 (TID 37)] INFO  - Getting 8 (239.8 KiB) non-empty blocks including 8 (239.8 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:47.526 [Executor task launch worker for task 5.0 in stage 4.0 (TID 37)] INFO  - Started 0 remote fetches in 4 ms
+14:06:47.587 [Executor task launch worker for task 2.0 in stage 4.0 (TID 34)] INFO  - Found block rdd_9_2 locally
+14:06:47.645 [Executor task launch worker for task 6.0 in stage 4.0 (TID 38)] INFO  - Found block rdd_9_6 locally
+14:06:47.667 [Executor task launch worker for task 4.0 in stage 4.0 (TID 36)] INFO  - Found block rdd_9_4 locally
+14:06:47.672 [Executor task launch worker for task 5.0 in stage 4.0 (TID 37)] INFO  - Found block rdd_9_5 locally
+14:06:47.672 [Executor task launch worker for task 3.0 in stage 4.0 (TID 35)] INFO  - Found block rdd_9_3 locally
+14:06:47.676 [dispatcher-BlockManagerMaster] INFO  - Removed broadcast_3_piece0 on Dell-MAIN-A:49934 in memory (size: 4.3 KiB, free: 59.8 GiB)
+14:06:47.728 [Executor task launch worker for task 7.0 in stage 4.0 (TID 39)] INFO  - Found block rdd_9_7 locally
+14:06:47.728 [Executor task launch worker for task 0.0 in stage 4.0 (TID 32)] INFO  - Found block rdd_9_0 locally
+14:06:47.761 [Executor task launch worker for task 1.0 in stage 4.0 (TID 33)] INFO  - Found block rdd_9_1 locally
+14:06:48.109 [Executor task launch worker for task 6.0 in stage 4.0 (TID 38)] INFO  - 1 block locks were not released by task 6.0 in stage 4.0 (TID 38)
+[rdd_9_6]
+14:06:48.109 [Executor task launch worker for task 7.0 in stage 4.0 (TID 39)] INFO  - 1 block locks were not released by task 7.0 in stage 4.0 (TID 39)
+[rdd_9_7]
+14:06:48.109 [Executor task launch worker for task 6.0 in stage 4.0 (TID 38)] INFO  - Finished task 6.0 in stage 4.0 (TID 38). 1923 bytes result sent to driver
+14:06:48.109 [Executor task launch worker for task 7.0 in stage 4.0 (TID 39)] INFO  - Finished task 7.0 in stage 4.0 (TID 39). 1923 bytes result sent to driver
+14:06:48.109 [task-result-getter-3] INFO  - Finished task 7.0 in stage 4.0 (TID 39) in 998 ms on Dell-MAIN-A (executor driver) (1/8)
+14:06:48.109 [task-result-getter-0] INFO  - Finished task 6.0 in stage 4.0 (TID 38) in 998 ms on Dell-MAIN-A (executor driver) (2/8)
+14:06:48.156 [Executor task launch worker for task 2.0 in stage 4.0 (TID 34)] INFO  - 1 block locks were not released by task 2.0 in stage 4.0 (TID 34)
+[rdd_9_2]
+14:06:48.156 [Executor task launch worker for task 2.0 in stage 4.0 (TID 34)] INFO  - Finished task 2.0 in stage 4.0 (TID 34). 1923 bytes result sent to driver
+14:06:48.156 [task-result-getter-1] INFO  - Finished task 2.0 in stage 4.0 (TID 34) in 1051 ms on Dell-MAIN-A (executor driver) (3/8)
+14:06:48.202 [Executor task launch worker for task 5.0 in stage 4.0 (TID 37)] INFO  - 1 block locks were not released by task 5.0 in stage 4.0 (TID 37)
+[rdd_9_5]
+14:06:48.218 [Executor task launch worker for task 5.0 in stage 4.0 (TID 37)] INFO  - Finished task 5.0 in stage 4.0 (TID 37). 1923 bytes result sent to driver
+14:06:48.218 [task-result-getter-2] INFO  - Finished task 5.0 in stage 4.0 (TID 37) in 1109 ms on Dell-MAIN-A (executor driver) (4/8)
+14:06:48.218 [Executor task launch worker for task 3.0 in stage 4.0 (TID 35)] INFO  - 1 block locks were not released by task 3.0 in stage 4.0 (TID 35)
+[rdd_9_3]
+14:06:48.218 [Executor task launch worker for task 3.0 in stage 4.0 (TID 35)] INFO  - Finished task 3.0 in stage 4.0 (TID 35). 1923 bytes result sent to driver
+14:06:48.218 [task-result-getter-3] INFO  - Finished task 3.0 in stage 4.0 (TID 35) in 1113 ms on Dell-MAIN-A (executor driver) (5/8)
+14:06:48.282 [Executor task launch worker for task 0.0 in stage 4.0 (TID 32)] INFO  - 1 block locks were not released by task 0.0 in stage 4.0 (TID 32)
+[rdd_9_0]
+14:06:48.282 [Executor task launch worker for task 0.0 in stage 4.0 (TID 32)] INFO  - Finished task 0.0 in stage 4.0 (TID 32). 1923 bytes result sent to driver
+14:06:48.282 [task-result-getter-0] INFO  - Finished task 0.0 in stage 4.0 (TID 32) in 1193 ms on Dell-MAIN-A (executor driver) (6/8)
+14:06:48.315 [Executor task launch worker for task 4.0 in stage 4.0 (TID 36)] INFO  - 1 block locks were not released by task 4.0 in stage 4.0 (TID 36)
+[rdd_9_4]
+14:06:48.315 [Executor task launch worker for task 4.0 in stage 4.0 (TID 36)] INFO  - Finished task 4.0 in stage 4.0 (TID 36). 1923 bytes result sent to driver
+14:06:48.315 [task-result-getter-1] INFO  - Finished task 4.0 in stage 4.0 (TID 36) in 1206 ms on Dell-MAIN-A (executor driver) (7/8)
+14:06:48.424 [Executor task launch worker for task 1.0 in stage 4.0 (TID 33)] INFO  - 1 block locks were not released by task 1.0 in stage 4.0 (TID 33)
+[rdd_9_1]
+14:06:48.424 [Executor task launch worker for task 1.0 in stage 4.0 (TID 33)] INFO  - Finished task 1.0 in stage 4.0 (TID 33). 1923 bytes result sent to driver
+14:06:48.424 [task-result-getter-2] INFO  - Finished task 1.0 in stage 4.0 (TID 33) in 1319 ms on Dell-MAIN-A (executor driver) (8/8)
+14:06:48.424 [task-result-getter-2] INFO  - Removed TaskSet 4.0, whose tasks have all completed, from pool 
+14:06:48.436 [dag-scheduler-event-loop] INFO  - ResultStage 4 (collect at Main.scala:23) finished in 1,346 s
+14:06:48.446 [dag-scheduler-event-loop] INFO  - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+14:06:48.447 [dag-scheduler-event-loop] INFO  - Killing all running tasks in stage 4: Stage finished
+14:06:48.450 [main] INFO  - Job 0 finished: collect at Main.scala:23, took 7,073565 s
+14:06:50.394 [main] INFO  - Starting job: take at Main.scala:39
+14:06:50.394 [dag-scheduler-event-loop] INFO  - Registering RDD 30 (parallelize at ReadGraph.scala:36) as input to shuffle 4
+14:06:50.394 [dag-scheduler-event-loop] INFO  - Registering RDD 36 (mapPartitions at VertexRDD.scala:356) as input to shuffle 5
+14:06:50.399 [dag-scheduler-event-loop] INFO  - Got job 1 (take at Main.scala:39) with 1 output partitions
+14:06:50.399 [dag-scheduler-event-loop] INFO  - Final stage: ResultStage 7 (take at Main.scala:39)
+14:06:50.399 [dag-scheduler-event-loop] INFO  - Parents of final stage: List(ShuffleMapStage 5, ShuffleMapStage 6)
+14:06:50.399 [dag-scheduler-event-loop] INFO  - Missing parents: List(ShuffleMapStage 5, ShuffleMapStage 6)
+14:06:50.401 [dag-scheduler-event-loop] INFO  - Submitting ShuffleMapStage 5 (ParallelCollectionRDD[30] at parallelize at ReadGraph.scala:36), which has no missing parents
+14:06:50.401 [dag-scheduler-event-loop] INFO  - Block broadcast_5 stored as values in memory (estimated size 3.0 KiB, free 59.8 GiB)
+14:06:50.401 [dag-scheduler-event-loop] INFO  - Block broadcast_5_piece0 stored as bytes in memory (estimated size 1865.0 B, free 59.8 GiB)
+14:06:50.401 [dispatcher-BlockManagerMaster] INFO  - Added broadcast_5_piece0 in memory on Dell-MAIN-A:49934 (size: 1865.0 B, free: 59.8 GiB)
+14:06:50.401 [dag-scheduler-event-loop] INFO  - Created broadcast 5 from broadcast at DAGScheduler.scala:1580
+14:06:50.401 [dag-scheduler-event-loop] INFO  - Submitting 8 missing tasks from ShuffleMapStage 5 (ParallelCollectionRDD[30] at parallelize at ReadGraph.scala:36) (first 15 tasks are for partitions Vector(0, 1, 2, 3, 4, 5, 6, 7))
+14:06:50.401 [dag-scheduler-event-loop] INFO  - Adding task set 5.0 with 8 tasks resource profile 0
+14:06:50.408 [dag-scheduler-event-loop] INFO  - Submitting ShuffleMapStage 6 (VertexRDD.createRoutingTables - vid2pid (aggregation) MapPartitionsRDD[36] at mapPartitions at VertexRDD.scala:356), which has no missing parents
+14:06:50.410 [dag-scheduler-event-loop] INFO  - Block broadcast_6 stored as values in memory (estimated size 6.0 KiB, free 59.8 GiB)
+14:06:50.410 [dag-scheduler-event-loop] INFO  - Block broadcast_6_piece0 stored as bytes in memory (estimated size 3.4 KiB, free 59.8 GiB)
+14:06:50.410 [dispatcher-BlockManagerMaster] INFO  - Added broadcast_6_piece0 in memory on Dell-MAIN-A:49934 (size: 3.4 KiB, free: 59.8 GiB)
+14:06:50.410 [dispatcher-event-loop-1] INFO  - Starting task 0.0 in stage 5.0 (TID 40) (Dell-MAIN-A, executor driver, partition 0, PROCESS_LOCAL, 146446 bytes) 
+14:06:50.410 [dag-scheduler-event-loop] INFO  - Created broadcast 6 from broadcast at DAGScheduler.scala:1580
+14:06:50.410 [dag-scheduler-event-loop] INFO  - Submitting 8 missing tasks from ShuffleMapStage 6 (VertexRDD.createRoutingTables - vid2pid (aggregation) MapPartitionsRDD[36] at mapPartitions at VertexRDD.scala:356) (first 15 tasks are for partitions Vector(0, 1, 2, 3, 4, 5, 6, 7))
+14:06:50.410 [dag-scheduler-event-loop] INFO  - Adding task set 6.0 with 8 tasks resource profile 0
+14:06:50.425 [dispatcher-event-loop-1] INFO  - Starting task 1.0 in stage 5.0 (TID 41) (Dell-MAIN-A, executor driver, partition 1, PROCESS_LOCAL, 164944 bytes) 
+14:06:50.429 [dispatcher-event-loop-1] INFO  - Starting task 2.0 in stage 5.0 (TID 42) (Dell-MAIN-A, executor driver, partition 2, PROCESS_LOCAL, 162987 bytes) 
+14:06:50.435 [dispatcher-event-loop-1] INFO  - Starting task 3.0 in stage 5.0 (TID 43) (Dell-MAIN-A, executor driver, partition 3, PROCESS_LOCAL, 141861 bytes) 
+14:06:50.442 [dispatcher-event-loop-1] INFO  - Starting task 4.0 in stage 5.0 (TID 44) (Dell-MAIN-A, executor driver, partition 4, PROCESS_LOCAL, 142611 bytes) 
+14:06:50.449 [dispatcher-event-loop-1] INFO  - Starting task 5.0 in stage 5.0 (TID 45) (Dell-MAIN-A, executor driver, partition 5, PROCESS_LOCAL, 157625 bytes) 
+14:06:50.453 [dispatcher-event-loop-1] INFO  - Starting task 6.0 in stage 5.0 (TID 46) (Dell-MAIN-A, executor driver, partition 6, PROCESS_LOCAL, 130960 bytes) 
+14:06:50.459 [dispatcher-event-loop-1] INFO  - Starting task 7.0 in stage 5.0 (TID 47) (Dell-MAIN-A, executor driver, partition 7, PROCESS_LOCAL, 124903 bytes) 
+14:06:50.459 [Executor task launch worker for task 0.0 in stage 5.0 (TID 40)] INFO  - Running task 0.0 in stage 5.0 (TID 40)
+14:06:50.459 [Executor task launch worker for task 1.0 in stage 5.0 (TID 41)] INFO  - Running task 1.0 in stage 5.0 (TID 41)
+14:06:50.459 [Executor task launch worker for task 2.0 in stage 5.0 (TID 42)] INFO  - Running task 2.0 in stage 5.0 (TID 42)
+14:06:50.459 [Executor task launch worker for task 4.0 in stage 5.0 (TID 44)] INFO  - Running task 4.0 in stage 5.0 (TID 44)
+14:06:50.459 [Executor task launch worker for task 3.0 in stage 5.0 (TID 43)] INFO  - Running task 3.0 in stage 5.0 (TID 43)
+14:06:50.459 [Executor task launch worker for task 6.0 in stage 5.0 (TID 46)] INFO  - Running task 6.0 in stage 5.0 (TID 46)
+14:06:50.459 [Executor task launch worker for task 5.0 in stage 5.0 (TID 45)] INFO  - Running task 5.0 in stage 5.0 (TID 45)
+14:06:50.472 [Executor task launch worker for task 7.0 in stage 5.0 (TID 47)] INFO  - Running task 7.0 in stage 5.0 (TID 47)
+14:06:50.535 [Executor task launch worker for task 4.0 in stage 5.0 (TID 44)] INFO  - Finished task 4.0 in stage 5.0 (TID 44). 1139 bytes result sent to driver
+14:06:50.567 [dispatcher-event-loop-4] INFO  - Starting task 0.0 in stage 6.0 (TID 48) (Dell-MAIN-A, executor driver, partition 0, PROCESS_LOCAL, 393382 bytes) 
+14:06:50.567 [task-result-getter-3] INFO  - Finished task 4.0 in stage 5.0 (TID 44) in 132 ms on Dell-MAIN-A (executor driver) (1/8)
+14:06:50.567 [Executor task launch worker for task 0.0 in stage 6.0 (TID 48)] INFO  - Running task 0.0 in stage 6.0 (TID 48)
+14:06:50.567 [Executor task launch worker for task 7.0 in stage 5.0 (TID 47)] INFO  - Finished task 7.0 in stage 5.0 (TID 47). 1096 bytes result sent to driver
+14:06:50.598 [dispatcher-event-loop-0] INFO  - Starting task 1.0 in stage 6.0 (TID 49) (Dell-MAIN-A, executor driver, partition 1, PROCESS_LOCAL, 354731 bytes) 
+14:06:50.598 [Executor task launch worker for task 1.0 in stage 6.0 (TID 49)] INFO  - Running task 1.0 in stage 6.0 (TID 49)
+14:06:50.598 [task-result-getter-0] INFO  - Finished task 7.0 in stage 5.0 (TID 47) in 144 ms on Dell-MAIN-A (executor driver) (2/8)
+14:06:50.632 [Executor task launch worker for task 0.0 in stage 5.0 (TID 40)] INFO  - Finished task 0.0 in stage 5.0 (TID 40). 1139 bytes result sent to driver
+14:06:50.632 [Executor task launch worker for task 6.0 in stage 5.0 (TID 46)] INFO  - Finished task 6.0 in stage 5.0 (TID 46). 1096 bytes result sent to driver
+14:06:50.662 [dispatcher-event-loop-5] INFO  - Starting task 2.0 in stage 6.0 (TID 50) (Dell-MAIN-A, executor driver, partition 2, PROCESS_LOCAL, 428385 bytes) 
+14:06:50.662 [Executor task launch worker for task 2.0 in stage 6.0 (TID 50)] INFO  - Running task 2.0 in stage 6.0 (TID 50)
+14:06:50.754 [dispatcher-event-loop-5] INFO  - Starting task 3.0 in stage 6.0 (TID 51) (Dell-MAIN-A, executor driver, partition 3, PROCESS_LOCAL, 387450 bytes) 
+14:06:50.754 [task-result-getter-2] INFO  - Finished task 6.0 in stage 5.0 (TID 46) in 304 ms on Dell-MAIN-A (executor driver) (3/8)
+14:06:50.754 [task-result-getter-1] INFO  - Finished task 0.0 in stage 5.0 (TID 40) in 346 ms on Dell-MAIN-A (executor driver) (4/8)
+14:06:50.754 [Executor task launch worker for task 3.0 in stage 6.0 (TID 51)] INFO  - Running task 3.0 in stage 6.0 (TID 51)
+14:06:50.816 [Executor task launch worker for task 2.0 in stage 5.0 (TID 42)] INFO  - Finished task 2.0 in stage 5.0 (TID 42). 1139 bytes result sent to driver
+14:06:50.816 [Executor task launch worker for task 3.0 in stage 5.0 (TID 43)] INFO  - Finished task 3.0 in stage 5.0 (TID 43). 1139 bytes result sent to driver
+14:06:50.842 [dispatcher-event-loop-4] INFO  - Starting task 4.0 in stage 6.0 (TID 52) (Dell-MAIN-A, executor driver, partition 4, PROCESS_LOCAL, 405550 bytes) 
+14:06:50.848 [Executor task launch worker for task 4.0 in stage 6.0 (TID 52)] INFO  - Running task 4.0 in stage 6.0 (TID 52)
+14:06:50.864 [Executor task launch worker for task 0.0 in stage 6.0 (TID 48)] INFO  - Finished task 0.0 in stage 6.0 (TID 48). 1182 bytes result sent to driver
+14:06:50.864 [Executor task launch worker for task 1.0 in stage 5.0 (TID 41)] INFO  - Finished task 1.0 in stage 5.0 (TID 41). 1139 bytes result sent to driver
+14:06:50.880 [Executor task launch worker for task 1.0 in stage 6.0 (TID 49)] INFO  - Finished task 1.0 in stage 6.0 (TID 49). 1182 bytes result sent to driver
+14:06:50.896 [dispatcher-event-loop-4] INFO  - Starting task 5.0 in stage 6.0 (TID 53) (Dell-MAIN-A, executor driver, partition 5, PROCESS_LOCAL, 424578 bytes) 
+14:06:50.896 [Executor task launch worker for task 5.0 in stage 6.0 (TID 53)] INFO  - Running task 5.0 in stage 6.0 (TID 53)
+14:06:50.963 [dispatcher-event-loop-4] INFO  - Starting task 6.0 in stage 6.0 (TID 54) (Dell-MAIN-A, executor driver, partition 6, PROCESS_LOCAL, 410903 bytes) 
+14:06:50.963 [task-result-getter-3] INFO  - Finished task 2.0 in stage 5.0 (TID 42) in 538 ms on Dell-MAIN-A (executor driver) (5/8)
+14:06:50.963 [Executor task launch worker for task 6.0 in stage 6.0 (TID 54)] INFO  - Running task 6.0 in stage 6.0 (TID 54)
+14:06:50.963 [Executor task launch worker for task 2.0 in stage 6.0 (TID 50)] INFO  - Finished task 2.0 in stage 6.0 (TID 50). 1139 bytes result sent to driver
+14:06:50.963 [task-result-getter-0] INFO  - Finished task 3.0 in stage 5.0 (TID 43) in 534 ms on Dell-MAIN-A (executor driver) (6/8)
+14:06:50.963 [task-result-getter-2] INFO  - Finished task 0.0 in stage 6.0 (TID 48) in 428 ms on Dell-MAIN-A (executor driver) (1/8)
+14:06:51.016 [dispatcher-event-loop-4] INFO  - Starting task 7.0 in stage 6.0 (TID 55) (Dell-MAIN-A, executor driver, partition 7, PROCESS_LOCAL, 353497 bytes) 
+14:06:51.016 [task-result-getter-1] INFO  - Finished task 1.0 in stage 5.0 (TID 41) in 606 ms on Dell-MAIN-A (executor driver) (7/8)
+14:06:51.016 [Executor task launch worker for task 7.0 in stage 6.0 (TID 55)] INFO  - Running task 7.0 in stage 6.0 (TID 55)
+14:06:51.019 [task-result-getter-3] INFO  - Finished task 1.0 in stage 6.0 (TID 49) in 452 ms on Dell-MAIN-A (executor driver) (2/8)
+14:06:51.019 [Executor task launch worker for task 5.0 in stage 5.0 (TID 45)] INFO  - Finished task 5.0 in stage 5.0 (TID 45). 1139 bytes result sent to driver
+14:06:51.022 [task-result-getter-0] INFO  - Finished task 2.0 in stage 6.0 (TID 50) in 390 ms on Dell-MAIN-A (executor driver) (3/8)
+14:06:51.022 [task-result-getter-0] INFO  - Finished task 5.0 in stage 5.0 (TID 45) in 580 ms on Dell-MAIN-A (executor driver) (8/8)
+14:06:51.022 [task-result-getter-0] INFO  - Removed TaskSet 5.0, whose tasks have all completed, from pool 
+14:06:51.022 [dag-scheduler-event-loop] INFO  - ShuffleMapStage 5 (parallelize at ReadGraph.scala:36) finished in 0,621 s
+14:06:51.022 [dag-scheduler-event-loop] INFO  - looking for newly runnable stages
+14:06:51.022 [dag-scheduler-event-loop] INFO  - running: HashSet(ShuffleMapStage 6)
+14:06:51.022 [dag-scheduler-event-loop] INFO  - waiting: HashSet(ResultStage 7)
+14:06:51.022 [dag-scheduler-event-loop] INFO  - failed: HashSet()
+14:06:51.022 [Executor task launch worker for task 3.0 in stage 6.0 (TID 51)] INFO  - Finished task 3.0 in stage 6.0 (TID 51). 1139 bytes result sent to driver
+14:06:51.022 [task-result-getter-1] INFO  - Finished task 3.0 in stage 6.0 (TID 51) in 360 ms on Dell-MAIN-A (executor driver) (4/8)
+14:06:51.070 [Executor task launch worker for task 6.0 in stage 6.0 (TID 54)] INFO  - Finished task 6.0 in stage 6.0 (TID 54). 1139 bytes result sent to driver
+14:06:51.070 [task-result-getter-3] INFO  - Finished task 6.0 in stage 6.0 (TID 54) in 174 ms on Dell-MAIN-A (executor driver) (5/8)
+14:06:51.101 [Executor task launch worker for task 4.0 in stage 6.0 (TID 52)] INFO  - Finished task 4.0 in stage 6.0 (TID 52). 1139 bytes result sent to driver
+14:06:51.117 [task-result-getter-2] INFO  - Finished task 4.0 in stage 6.0 (TID 52) in 301 ms on Dell-MAIN-A (executor driver) (6/8)
+14:06:51.132 [Executor task launch worker for task 5.0 in stage 6.0 (TID 53)] INFO  - Finished task 5.0 in stage 6.0 (TID 53). 1182 bytes result sent to driver
+14:06:51.132 [task-result-getter-0] INFO  - Finished task 5.0 in stage 6.0 (TID 53) in 284 ms on Dell-MAIN-A (executor driver) (7/8)
+14:06:51.236 [Executor task launch worker for task 7.0 in stage 6.0 (TID 55)] INFO  - Finished task 7.0 in stage 6.0 (TID 55). 1139 bytes result sent to driver
+14:06:51.236 [task-result-getter-1] INFO  - Finished task 7.0 in stage 6.0 (TID 55) in 273 ms on Dell-MAIN-A (executor driver) (8/8)
+14:06:51.236 [task-result-getter-1] INFO  - Removed TaskSet 6.0, whose tasks have all completed, from pool 
+14:06:51.236 [dag-scheduler-event-loop] INFO  - ShuffleMapStage 6 (mapPartitions at VertexRDD.scala:356) finished in 0,826 s
+14:06:51.236 [dag-scheduler-event-loop] INFO  - looking for newly runnable stages
+14:06:51.236 [dag-scheduler-event-loop] INFO  - running: HashSet()
+14:06:51.236 [dag-scheduler-event-loop] INFO  - waiting: HashSet(ResultStage 7)
+14:06:51.236 [dag-scheduler-event-loop] INFO  - failed: HashSet()
+14:06:51.236 [dag-scheduler-event-loop] INFO  - Submitting ResultStage 7 (PartitionwiseSampledRDD[44] at sample at Main.scala:38), which has no missing parents
+14:06:51.245 [dag-scheduler-event-loop] INFO  - Block broadcast_7 stored as values in memory (estimated size 24.7 KiB, free 59.8 GiB)
+14:06:51.255 [dag-scheduler-event-loop] INFO  - Block broadcast_7_piece0 stored as bytes in memory (estimated size 10.2 KiB, free 59.8 GiB)
+14:06:51.255 [dispatcher-BlockManagerMaster] INFO  - Added broadcast_7_piece0 in memory on Dell-MAIN-A:49934 (size: 10.2 KiB, free: 59.8 GiB)
+14:06:51.257 [dag-scheduler-event-loop] INFO  - Created broadcast 7 from broadcast at DAGScheduler.scala:1580
+14:06:51.257 [dag-scheduler-event-loop] INFO  - Submitting 1 missing tasks from ResultStage 7 (PartitionwiseSampledRDD[44] at sample at Main.scala:38) (first 15 tasks are for partitions Vector(0))
+14:06:51.257 [dag-scheduler-event-loop] INFO  - Adding task set 7.0 with 1 tasks resource profile 0
+14:06:51.262 [dispatcher-event-loop-0] INFO  - Starting task 0.0 in stage 7.0 (TID 56) (Dell-MAIN-A, executor driver, partition 0, NODE_LOCAL, 8110 bytes) 
+14:06:51.264 [Executor task launch worker for task 0.0 in stage 7.0 (TID 56)] INFO  - Running task 0.0 in stage 7.0 (TID 56)
+14:06:51.278 [Executor task launch worker for task 0.0 in stage 7.0 (TID 56)] INFO  - Getting 8 (91.8 KiB) non-empty blocks including 8 (91.8 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.278 [Executor task launch worker for task 0.0 in stage 7.0 (TID 56)] INFO  - Started 0 remote fetches in 2 ms
+14:06:51.294 [Executor task launch worker for task 0.0 in stage 7.0 (TID 56)] INFO  - Getting 8 (990.0 B) non-empty blocks including 8 (990.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.294 [Executor task launch worker for task 0.0 in stage 7.0 (TID 56)] INFO  - Started 0 remote fetches in 1 ms
+14:06:51.357 [Executor task launch worker for task 0.0 in stage 7.0 (TID 56)] INFO  - Block rdd_39_0 stored as values in memory (estimated size 533.8 KiB, free 59.8 GiB)
+14:06:51.357 [dispatcher-BlockManagerMaster] INFO  - Added rdd_39_0 in memory on Dell-MAIN-A:49934 (size: 533.8 KiB, free: 59.8 GiB)
+14:06:51.357 [Executor task launch worker for task 0.0 in stage 7.0 (TID 56)] INFO  - 1 block locks were not released by task 0.0 in stage 7.0 (TID 56)
+[rdd_39_0]
+14:06:51.371 [Executor task launch worker for task 0.0 in stage 7.0 (TID 56)] INFO  - Finished task 0.0 in stage 7.0 (TID 56). 5793 bytes result sent to driver
+14:06:51.371 [task-result-getter-3] INFO  - Finished task 0.0 in stage 7.0 (TID 56) in 112 ms on Dell-MAIN-A (executor driver) (1/1)
+14:06:51.371 [task-result-getter-3] INFO  - Removed TaskSet 7.0, whose tasks have all completed, from pool 
+14:06:51.371 [dag-scheduler-event-loop] INFO  - ResultStage 7 (take at Main.scala:39) finished in 0,128 s
+14:06:51.371 [dag-scheduler-event-loop] INFO  - Job 1 is finished. Cancelling potential speculative or zombie tasks for this job
+14:06:51.371 [dag-scheduler-event-loop] INFO  - Killing all running tasks in stage 7: Stage finished
+14:06:51.371 [main] INFO  - Job 1 finished: take at Main.scala:39, took 0,982244 s
+14:06:51.434 [main] INFO  - Starting job: lookup at RandomWalk.scala:57
+14:06:51.434 [dag-scheduler-event-loop] INFO  - Registering RDD 45 (mapPartitions at VertexRDDImpl.scala:247) as input to shuffle 6
+14:06:51.434 [dag-scheduler-event-loop] INFO  - Registering RDD 49 (mapPartitions at GraphImpl.scala:207) as input to shuffle 7
+14:06:51.434 [dag-scheduler-event-loop] INFO  - Got job 2 (lookup at RandomWalk.scala:57) with 1 output partitions
+14:06:51.434 [dag-scheduler-event-loop] INFO  - Final stage: ResultStage 12 (lookup at RandomWalk.scala:57)
+14:06:51.434 [dag-scheduler-event-loop] INFO  - Parents of final stage: List(ShuffleMapStage 8, ShuffleMapStage 9, ShuffleMapStage 11)
+14:06:51.434 [dag-scheduler-event-loop] INFO  - Missing parents: List(ShuffleMapStage 11)
+14:06:51.434 [dag-scheduler-event-loop] INFO  - Submitting ShuffleMapStage 10 (ReplicatedVertexView.upgrade(true, true) - shippedVerts true true (broadcast) MapPartitionsRDD[45] at mapPartitions at VertexRDDImpl.scala:247), which has no missing parents
+14:06:51.434 [dag-scheduler-event-loop] INFO  - Block broadcast_8 stored as values in memory (estimated size 7.7 KiB, free 59.8 GiB)
+14:06:51.455 [dag-scheduler-event-loop] INFO  - Block broadcast_8_piece0 stored as bytes in memory (estimated size 4.2 KiB, free 59.8 GiB)
+14:06:51.455 [dispatcher-BlockManagerMaster] INFO  - Added broadcast_8_piece0 in memory on Dell-MAIN-A:49934 (size: 4.2 KiB, free: 59.8 GiB)
+14:06:51.455 [dag-scheduler-event-loop] INFO  - Created broadcast 8 from broadcast at DAGScheduler.scala:1580
+14:06:51.459 [dag-scheduler-event-loop] INFO  - Submitting 8 missing tasks from ShuffleMapStage 10 (ReplicatedVertexView.upgrade(true, true) - shippedVerts true true (broadcast) MapPartitionsRDD[45] at mapPartitions at VertexRDDImpl.scala:247) (first 15 tasks are for partitions Vector(0, 1, 2, 3, 4, 5, 6, 7))
+14:06:51.459 [dag-scheduler-event-loop] INFO  - Adding task set 10.0 with 8 tasks resource profile 0
+14:06:51.459 [dispatcher-event-loop-7] INFO  - Starting task 0.0 in stage 10.0 (TID 57) (Dell-MAIN-A, executor driver, partition 0, PROCESS_LOCAL, 7990 bytes) 
+14:06:51.459 [dispatcher-event-loop-7] INFO  - Starting task 1.0 in stage 10.0 (TID 58) (Dell-MAIN-A, executor driver, partition 1, NODE_LOCAL, 7990 bytes) 
+14:06:51.459 [dispatcher-event-loop-7] INFO  - Starting task 2.0 in stage 10.0 (TID 59) (Dell-MAIN-A, executor driver, partition 2, NODE_LOCAL, 7990 bytes) 
+14:06:51.459 [dispatcher-event-loop-7] INFO  - Starting task 3.0 in stage 10.0 (TID 60) (Dell-MAIN-A, executor driver, partition 3, NODE_LOCAL, 7990 bytes) 
+14:06:51.459 [dispatcher-event-loop-7] INFO  - Starting task 4.0 in stage 10.0 (TID 61) (Dell-MAIN-A, executor driver, partition 4, NODE_LOCAL, 7990 bytes) 
+14:06:51.464 [dispatcher-event-loop-7] INFO  - Starting task 5.0 in stage 10.0 (TID 62) (Dell-MAIN-A, executor driver, partition 5, NODE_LOCAL, 7990 bytes) 
+14:06:51.464 [dispatcher-event-loop-7] INFO  - Starting task 6.0 in stage 10.0 (TID 63) (Dell-MAIN-A, executor driver, partition 6, NODE_LOCAL, 7990 bytes) 
+14:06:51.464 [dispatcher-event-loop-7] INFO  - Starting task 7.0 in stage 10.0 (TID 64) (Dell-MAIN-A, executor driver, partition 7, NODE_LOCAL, 7990 bytes) 
+14:06:51.465 [Executor task launch worker for task 0.0 in stage 10.0 (TID 57)] INFO  - Running task 0.0 in stage 10.0 (TID 57)
+14:06:51.465 [Executor task launch worker for task 1.0 in stage 10.0 (TID 58)] INFO  - Running task 1.0 in stage 10.0 (TID 58)
+14:06:51.465 [Executor task launch worker for task 2.0 in stage 10.0 (TID 59)] INFO  - Running task 2.0 in stage 10.0 (TID 59)
+14:06:51.465 [Executor task launch worker for task 6.0 in stage 10.0 (TID 63)] INFO  - Running task 6.0 in stage 10.0 (TID 63)
+14:06:51.465 [Executor task launch worker for task 3.0 in stage 10.0 (TID 60)] INFO  - Running task 3.0 in stage 10.0 (TID 60)
+14:06:51.465 [Executor task launch worker for task 5.0 in stage 10.0 (TID 62)] INFO  - Running task 5.0 in stage 10.0 (TID 62)
+14:06:51.465 [Executor task launch worker for task 4.0 in stage 10.0 (TID 61)] INFO  - Running task 4.0 in stage 10.0 (TID 61)
+14:06:51.465 [Executor task launch worker for task 7.0 in stage 10.0 (TID 64)] INFO  - Running task 7.0 in stage 10.0 (TID 64)
+14:06:51.465 [Executor task launch worker for task 1.0 in stage 10.0 (TID 58)] INFO  - Getting 8 (82.5 KiB) non-empty blocks including 8 (82.5 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.465 [Executor task launch worker for task 1.0 in stage 10.0 (TID 58)] INFO  - Started 0 remote fetches in 0 ms
+14:06:51.465 [Executor task launch worker for task 0.0 in stage 10.0 (TID 57)] INFO  - Found block rdd_39_0 locally
+14:06:51.465 [Executor task launch worker for task 2.0 in stage 10.0 (TID 59)] INFO  - Getting 8 (71.8 KiB) non-empty blocks including 8 (71.8 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.465 [Executor task launch worker for task 2.0 in stage 10.0 (TID 59)] INFO  - Started 0 remote fetches in 0 ms
+14:06:51.465 [Executor task launch worker for task 3.0 in stage 10.0 (TID 60)] INFO  - Getting 8 (52.8 KiB) non-empty blocks including 8 (52.8 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.465 [Executor task launch worker for task 6.0 in stage 10.0 (TID 63)] INFO  - Getting 8 (78.8 KiB) non-empty blocks including 8 (78.8 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.465 [Executor task launch worker for task 6.0 in stage 10.0 (TID 63)] INFO  - Started 0 remote fetches in 0 ms
+14:06:51.465 [Executor task launch worker for task 3.0 in stage 10.0 (TID 60)] INFO  - Started 0 remote fetches in 0 ms
+14:06:51.482 [Executor task launch worker for task 5.0 in stage 10.0 (TID 62)] INFO  - Getting 8 (64.5 KiB) non-empty blocks including 8 (64.5 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.482 [Executor task launch worker for task 5.0 in stage 10.0 (TID 62)] INFO  - Started 0 remote fetches in 2 ms
+14:06:51.482 [Executor task launch worker for task 4.0 in stage 10.0 (TID 61)] INFO  - Getting 8 (72.8 KiB) non-empty blocks including 8 (72.8 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.482 [Executor task launch worker for task 4.0 in stage 10.0 (TID 61)] INFO  - Started 0 remote fetches in 2 ms
+14:06:51.482 [Executor task launch worker for task 7.0 in stage 10.0 (TID 64)] INFO  - Getting 8 (84.8 KiB) non-empty blocks including 8 (84.8 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.482 [Executor task launch worker for task 7.0 in stage 10.0 (TID 64)] INFO  - Started 0 remote fetches in 0 ms
+14:06:51.482 [Executor task launch worker for task 1.0 in stage 10.0 (TID 58)] INFO  - Getting 8 (920.0 B) non-empty blocks including 8 (920.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.482 [Executor task launch worker for task 1.0 in stage 10.0 (TID 58)] INFO  - Started 0 remote fetches in 0 ms
+14:06:51.482 [Executor task launch worker for task 3.0 in stage 10.0 (TID 60)] INFO  - Getting 8 (919.0 B) non-empty blocks including 8 (919.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.482 [Executor task launch worker for task 3.0 in stage 10.0 (TID 60)] INFO  - Started 0 remote fetches in 1 ms
+14:06:51.499 [Executor task launch worker for task 6.0 in stage 10.0 (TID 63)] INFO  - Getting 8 (915.0 B) non-empty blocks including 8 (915.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.499 [Executor task launch worker for task 6.0 in stage 10.0 (TID 63)] INFO  - Started 0 remote fetches in 2 ms
+14:06:51.499 [Executor task launch worker for task 7.0 in stage 10.0 (TID 64)] INFO  - Getting 8 (963.0 B) non-empty blocks including 8 (963.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.499 [Executor task launch worker for task 7.0 in stage 10.0 (TID 64)] INFO  - Started 0 remote fetches in 0 ms
+14:06:51.499 [Executor task launch worker for task 2.0 in stage 10.0 (TID 59)] INFO  - Getting 8 (898.0 B) non-empty blocks including 8 (898.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.499 [Executor task launch worker for task 2.0 in stage 10.0 (TID 59)] INFO  - Started 0 remote fetches in 1 ms
+14:06:51.513 [Executor task launch worker for task 4.0 in stage 10.0 (TID 61)] INFO  - Getting 8 (955.0 B) non-empty blocks including 8 (955.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.513 [Executor task launch worker for task 4.0 in stage 10.0 (TID 61)] INFO  - Started 0 remote fetches in 0 ms
+14:06:51.528 [Executor task launch worker for task 5.0 in stage 10.0 (TID 62)] INFO  - Getting 8 (943.0 B) non-empty blocks including 8 (943.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:51.528 [Executor task launch worker for task 5.0 in stage 10.0 (TID 62)] INFO  - Started 0 remote fetches in 4 ms
+14:06:51.528 [Executor task launch worker for task 0.0 in stage 10.0 (TID 57)] INFO  - Finished task 0.0 in stage 10.0 (TID 57). 1225 bytes result sent to driver
+14:06:51.528 [task-result-getter-2] INFO  - Finished task 0.0 in stage 10.0 (TID 57) in 69 ms on Dell-MAIN-A (executor driver) (1/8)
+14:06:51.590 [Executor task launch worker for task 5.0 in stage 10.0 (TID 62)] INFO  - Block rdd_39_5 stored as values in memory (estimated size 372.1 KiB, free 59.8 GiB)
+14:06:51.590 [dispatcher-BlockManagerMaster] INFO  - Added rdd_39_5 in memory on Dell-MAIN-A:49934 (size: 372.1 KiB, free: 59.8 GiB)
+14:06:51.590 [Executor task launch worker for task 4.0 in stage 10.0 (TID 61)] INFO  - Block rdd_39_4 stored as values in memory (estimated size 420.4 KiB, free 59.8 GiB)
+14:06:51.590 [Executor task launch worker for task 1.0 in stage 10.0 (TID 58)] INFO  - Block rdd_39_1 stored as values in memory (estimated size 485.9 KiB, free 59.8 GiB)
+14:06:51.590 [dispatcher-BlockManagerMaster] INFO  - Added rdd_39_1 in memory on Dell-MAIN-A:49934 (size: 485.9 KiB, free: 59.8 GiB)
+14:06:51.605 [dispatcher-BlockManagerMaster] INFO  - Added rdd_39_4 in memory on Dell-MAIN-A:49934 (size: 420.4 KiB, free: 59.8 GiB)
+14:06:51.607 [Executor task launch worker for task 6.0 in stage 10.0 (TID 63)] INFO  - Block rdd_39_6 stored as values in memory (estimated size 461.9 KiB, free 59.8 GiB)
+14:06:51.607 [dispatcher-BlockManagerMaster] INFO  - Added rdd_39_6 in memory on Dell-MAIN-A:49934 (size: 461.9 KiB, free: 59.8 GiB)
+14:06:51.670 [Executor task launch worker for task 3.0 in stage 10.0 (TID 60)] INFO  - Block rdd_39_3 stored as values in memory (estimated size 298.1 KiB, free 59.8 GiB)
+14:06:51.670 [dispatcher-BlockManagerMaster] INFO  - Added rdd_39_3 in memory on Dell-MAIN-A:49934 (size: 298.1 KiB, free: 59.8 GiB)
+14:06:51.670 [Executor task launch worker for task 7.0 in stage 10.0 (TID 64)] INFO  - Block rdd_39_7 stored as values in memory (estimated size 492.4 KiB, free 59.8 GiB)
+14:06:51.685 [dispatcher-BlockManagerMaster] INFO  - Added rdd_39_7 in memory on Dell-MAIN-A:49934 (size: 492.4 KiB, free: 59.8 GiB)
+14:06:51.707 [Executor task launch worker for task 2.0 in stage 10.0 (TID 59)] INFO  - Block rdd_39_2 stored as values in memory (estimated size 420.1 KiB, free 59.8 GiB)
+14:06:51.707 [dispatcher-BlockManagerMaster] INFO  - Added rdd_39_2 in memory on Dell-MAIN-A:49934 (size: 420.1 KiB, free: 59.8 GiB)
+14:06:51.707 [Executor task launch worker for task 1.0 in stage 10.0 (TID 58)] INFO  - Finished task 1.0 in stage 10.0 (TID 58). 1870 bytes result sent to driver
+14:06:51.721 [task-result-getter-0] INFO  - Finished task 1.0 in stage 10.0 (TID 58) in 262 ms on Dell-MAIN-A (executor driver) (2/8)
+14:06:51.733 [Executor task launch worker for task 6.0 in stage 10.0 (TID 63)] INFO  - Finished task 6.0 in stage 10.0 (TID 63). 1870 bytes result sent to driver
+14:06:51.733 [Executor task launch worker for task 3.0 in stage 10.0 (TID 60)] INFO  - Finished task 3.0 in stage 10.0 (TID 60). 1870 bytes result sent to driver
+14:06:51.733 [task-result-getter-1] INFO  - Finished task 6.0 in stage 10.0 (TID 63) in 269 ms on Dell-MAIN-A (executor driver) (3/8)
+14:06:51.733 [task-result-getter-3] INFO  - Finished task 3.0 in stage 10.0 (TID 60) in 274 ms on Dell-MAIN-A (executor driver) (4/8)
+14:06:51.764 [Executor task launch worker for task 4.0 in stage 10.0 (TID 61)] INFO  - Finished task 4.0 in stage 10.0 (TID 61). 1870 bytes result sent to driver
+14:06:51.764 [task-result-getter-2] INFO  - Finished task 4.0 in stage 10.0 (TID 61) in 305 ms on Dell-MAIN-A (executor driver) (5/8)
+14:06:51.784 [Executor task launch worker for task 5.0 in stage 10.0 (TID 62)] INFO  - Finished task 5.0 in stage 10.0 (TID 62). 1870 bytes result sent to driver
+14:06:51.784 [task-result-getter-0] INFO  - Finished task 5.0 in stage 10.0 (TID 62) in 320 ms on Dell-MAIN-A (executor driver) (6/8)
+14:06:51.796 [Executor task launch worker for task 7.0 in stage 10.0 (TID 64)] INFO  - Finished task 7.0 in stage 10.0 (TID 64). 1870 bytes result sent to driver
+14:06:51.796 [task-result-getter-1] INFO  - Finished task 7.0 in stage 10.0 (TID 64) in 332 ms on Dell-MAIN-A (executor driver) (7/8)
+14:06:51.813 [Executor task launch worker for task 2.0 in stage 10.0 (TID 59)] INFO  - Finished task 2.0 in stage 10.0 (TID 59). 1870 bytes result sent to driver
+14:06:51.813 [task-result-getter-3] INFO  - Finished task 2.0 in stage 10.0 (TID 59) in 354 ms on Dell-MAIN-A (executor driver) (8/8)
+14:06:51.813 [task-result-getter-3] INFO  - Removed TaskSet 10.0, whose tasks have all completed, from pool 
+14:06:51.813 [dag-scheduler-event-loop] INFO  - ShuffleMapStage 10 (mapPartitions at VertexRDDImpl.scala:247) finished in 0,379 s
+14:06:51.813 [dag-scheduler-event-loop] INFO  - looking for newly runnable stages
+14:06:51.813 [dag-scheduler-event-loop] INFO  - running: HashSet()
+14:06:51.813 [dag-scheduler-event-loop] INFO  - waiting: HashSet(ShuffleMapStage 11, ResultStage 12)
+14:06:51.813 [dag-scheduler-event-loop] INFO  - failed: HashSet()
+14:06:51.821 [dag-scheduler-event-loop] INFO  - Submitting ShuffleMapStage 11 (GraphImpl.aggregateMessages - preAgg MapPartitionsRDD[49] at mapPartitions at GraphImpl.scala:207), which has no missing parents
+14:06:51.828 [dag-scheduler-event-loop] INFO  - Block broadcast_9 stored as values in memory (estimated size 8.6 KiB, free 59.8 GiB)
+14:06:51.830 [dag-scheduler-event-loop] INFO  - Block broadcast_9_piece0 stored as bytes in memory (estimated size 4.3 KiB, free 59.8 GiB)
+14:06:51.830 [dispatcher-BlockManagerMaster] INFO  - Added broadcast_9_piece0 in memory on Dell-MAIN-A:49934 (size: 4.3 KiB, free: 59.8 GiB)
+14:06:51.830 [dag-scheduler-event-loop] INFO  - Created broadcast 9 from broadcast at DAGScheduler.scala:1580
+14:06:51.830 [dag-scheduler-event-loop] INFO  - Submitting 8 missing tasks from ShuffleMapStage 11 (GraphImpl.aggregateMessages - preAgg MapPartitionsRDD[49] at mapPartitions at GraphImpl.scala:207) (first 15 tasks are for partitions Vector(0, 1, 2, 3, 4, 5, 6, 7))
+14:06:51.830 [dag-scheduler-event-loop] INFO  - Adding task set 11.0 with 8 tasks resource profile 0
+14:06:51.861 [dispatcher-event-loop-5] INFO  - Starting task 0.0 in stage 11.0 (TID 65) (Dell-MAIN-A, executor driver, partition 0, NODE_LOCAL, 393600 bytes) 
+14:06:51.878 [dispatcher-event-loop-5] INFO  - Starting task 1.0 in stage 11.0 (TID 66) (Dell-MAIN-A, executor driver, partition 1, NODE_LOCAL, 354949 bytes) 
+14:06:51.893 [dispatcher-event-loop-5] INFO  - Starting task 2.0 in stage 11.0 (TID 67) (Dell-MAIN-A, executor driver, partition 2, NODE_LOCAL, 428603 bytes) 
+14:06:51.914 [dispatcher-event-loop-5] INFO  - Starting task 3.0 in stage 11.0 (TID 68) (Dell-MAIN-A, executor driver, partition 3, NODE_LOCAL, 387668 bytes) 
+14:06:51.939 [dispatcher-event-loop-5] INFO  - Starting task 4.0 in stage 11.0 (TID 69) (Dell-MAIN-A, executor driver, partition 4, NODE_LOCAL, 405768 bytes) 
+14:06:51.958 [dispatcher-event-loop-5] INFO  - Starting task 5.0 in stage 11.0 (TID 70) (Dell-MAIN-A, executor driver, partition 5, NODE_LOCAL, 424796 bytes) 
+14:06:51.972 [dispatcher-event-loop-5] INFO  - Starting task 6.0 in stage 11.0 (TID 71) (Dell-MAIN-A, executor driver, partition 6, NODE_LOCAL, 411121 bytes) 
+14:06:51.988 [dispatcher-event-loop-5] INFO  - Starting task 7.0 in stage 11.0 (TID 72) (Dell-MAIN-A, executor driver, partition 7, NODE_LOCAL, 353715 bytes) 
+14:06:51.988 [Executor task launch worker for task 1.0 in stage 11.0 (TID 66)] INFO  - Running task 1.0 in stage 11.0 (TID 66)
+14:06:51.988 [Executor task launch worker for task 3.0 in stage 11.0 (TID 68)] INFO  - Running task 3.0 in stage 11.0 (TID 68)
+14:06:51.988 [Executor task launch worker for task 4.0 in stage 11.0 (TID 69)] INFO  - Running task 4.0 in stage 11.0 (TID 69)
+14:06:51.988 [Executor task launch worker for task 5.0 in stage 11.0 (TID 70)] INFO  - Running task 5.0 in stage 11.0 (TID 70)
+14:06:51.988 [Executor task launch worker for task 0.0 in stage 11.0 (TID 65)] INFO  - Running task 0.0 in stage 11.0 (TID 65)
+14:06:51.988 [Executor task launch worker for task 2.0 in stage 11.0 (TID 67)] INFO  - Running task 2.0 in stage 11.0 (TID 67)
+14:06:51.988 [Executor task launch worker for task 6.0 in stage 11.0 (TID 71)] INFO  - Running task 6.0 in stage 11.0 (TID 71)
+14:06:52.018 [Executor task launch worker for task 7.0 in stage 11.0 (TID 72)] INFO  - Running task 7.0 in stage 11.0 (TID 72)
+14:06:52.156 [Executor task launch worker for task 6.0 in stage 11.0 (TID 71)] INFO  - Block rdd_42_6 stored as values in memory (estimated size 1211.0 KiB, free 59.8 GiB)
+14:06:52.156 [Executor task launch worker for task 7.0 in stage 11.0 (TID 72)] INFO  - Block rdd_42_7 stored as values in memory (estimated size 1030.5 KiB, free 59.8 GiB)
+14:06:52.172 [dispatcher-BlockManagerMaster] INFO  - Added rdd_42_6 in memory on Dell-MAIN-A:49934 (size: 1211.0 KiB, free: 59.8 GiB)
+14:06:52.172 [dispatcher-BlockManagerMaster] INFO  - Added rdd_42_7 in memory on Dell-MAIN-A:49934 (size: 1030.5 KiB, free: 59.8 GiB)
+14:06:52.172 [Executor task launch worker for task 6.0 in stage 11.0 (TID 71)] INFO  - Getting 8 (109.7 KiB) non-empty blocks including 8 (109.7 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:52.172 [Executor task launch worker for task 6.0 in stage 11.0 (TID 71)] INFO  - Started 0 remote fetches in 0 ms
+14:06:52.172 [Executor task launch worker for task 7.0 in stage 11.0 (TID 72)] INFO  - Getting 8 (77.4 KiB) non-empty blocks including 8 (77.4 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:52.172 [Executor task launch worker for task 7.0 in stage 11.0 (TID 72)] INFO  - Started 0 remote fetches in 2 ms
+14:06:52.188 [Executor task launch worker for task 1.0 in stage 11.0 (TID 66)] INFO  - Block rdd_42_1 stored as values in memory (estimated size 1045.1 KiB, free 59.8 GiB)
+14:06:52.188 [dispatcher-BlockManagerMaster] INFO  - Added rdd_42_1 in memory on Dell-MAIN-A:49934 (size: 1045.1 KiB, free: 59.8 GiB)
+14:06:52.188 [Executor task launch worker for task 0.0 in stage 11.0 (TID 65)] INFO  - Block rdd_42_0 stored as values in memory (estimated size 1156.0 KiB, free 59.8 GiB)
+14:06:52.188 [dispatcher-BlockManagerMaster] INFO  - Added rdd_42_0 in memory on Dell-MAIN-A:49934 (size: 1156.0 KiB, free: 59.8 GiB)
+14:06:52.188 [Executor task launch worker for task 1.0 in stage 11.0 (TID 66)] INFO  - Getting 8 (90.3 KiB) non-empty blocks including 8 (90.3 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:52.188 [Executor task launch worker for task 2.0 in stage 11.0 (TID 67)] INFO  - Block rdd_42_2 stored as values in memory (estimated size 1266.2 KiB, free 59.8 GiB)
+14:06:52.188 [Executor task launch worker for task 1.0 in stage 11.0 (TID 66)] INFO  - Started 0 remote fetches in 0 ms
+14:06:52.188 [dispatcher-BlockManagerMaster] INFO  - Added rdd_42_2 in memory on Dell-MAIN-A:49934 (size: 1266.2 KiB, free: 59.8 GiB)
+14:06:52.188 [Executor task launch worker for task 0.0 in stage 11.0 (TID 65)] INFO  - Getting 8 (98.2 KiB) non-empty blocks including 8 (98.2 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:52.188 [Executor task launch worker for task 0.0 in stage 11.0 (TID 65)] INFO  - Started 0 remote fetches in 0 ms
+14:06:52.188 [Executor task launch worker for task 5.0 in stage 11.0 (TID 70)] INFO  - Block rdd_42_5 stored as values in memory (estimated size 1258.9 KiB, free 59.8 GiB)
+14:06:52.188 [Executor task launch worker for task 2.0 in stage 11.0 (TID 67)] INFO  - Getting 8 (109.3 KiB) non-empty blocks including 8 (109.3 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:52.188 [dispatcher-BlockManagerMaster] INFO  - Added rdd_42_5 in memory on Dell-MAIN-A:49934 (size: 1258.9 KiB, free: 59.8 GiB)
+14:06:52.188 [Executor task launch worker for task 2.0 in stage 11.0 (TID 67)] INFO  - Started 0 remote fetches in 0 ms
+14:06:52.188 [Executor task launch worker for task 5.0 in stage 11.0 (TID 70)] INFO  - Getting 8 (112.1 KiB) non-empty blocks including 8 (112.1 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:52.188 [Executor task launch worker for task 5.0 in stage 11.0 (TID 70)] INFO  - Started 0 remote fetches in 0 ms
+14:06:52.204 [Executor task launch worker for task 4.0 in stage 11.0 (TID 69)] INFO  - Block rdd_42_4 stored as values in memory (estimated size 1193.2 KiB, free 59.8 GiB)
+14:06:52.204 [dispatcher-BlockManagerMaster] INFO  - Added rdd_42_4 in memory on Dell-MAIN-A:49934 (size: 1193.2 KiB, free: 59.8 GiB)
+14:06:52.204 [Executor task launch worker for task 4.0 in stage 11.0 (TID 69)] INFO  - Getting 8 (110.7 KiB) non-empty blocks including 8 (110.7 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:52.204 [Executor task launch worker for task 4.0 in stage 11.0 (TID 69)] INFO  - Started 0 remote fetches in 0 ms
+14:06:52.219 [Executor task launch worker for task 3.0 in stage 11.0 (TID 68)] INFO  - Block rdd_42_3 stored as values in memory (estimated size 1136.6 KiB, free 59.8 GiB)
+14:06:52.219 [dispatcher-BlockManagerMaster] INFO  - Removed broadcast_4_piece0 on Dell-MAIN-A:49934 in memory (size: 5.4 KiB, free: 59.8 GiB)
+14:06:52.219 [dispatcher-BlockManagerMaster] INFO  - Added rdd_42_3 in memory on Dell-MAIN-A:49934 (size: 1136.6 KiB, free: 59.8 GiB)
+14:06:52.219 [Executor task launch worker for task 3.0 in stage 11.0 (TID 68)] INFO  - Getting 8 (91.5 KiB) non-empty blocks including 8 (91.5 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:52.219 [Executor task launch worker for task 3.0 in stage 11.0 (TID 68)] INFO  - Started 0 remote fetches in 0 ms
+14:06:52.298 [dispatcher-BlockManagerMaster] INFO  - Removed broadcast_6_piece0 on Dell-MAIN-A:49934 in memory (size: 3.4 KiB, free: 59.8 GiB)
+14:06:52.318 [Executor task launch worker for task 5.0 in stage 11.0 (TID 70)] INFO  - Finished task 5.0 in stage 11.0 (TID 70). 1913 bytes result sent to driver
+14:06:52.318 [task-result-getter-2] INFO  - Finished task 5.0 in stage 11.0 (TID 70) in 379 ms on Dell-MAIN-A (executor driver) (1/8)
+14:06:52.369 [Executor task launch worker for task 7.0 in stage 11.0 (TID 72)] INFO  - Finished task 7.0 in stage 11.0 (TID 72). 1870 bytes result sent to driver
+14:06:52.369 [dispatcher-BlockManagerMaster] INFO  - Removed broadcast_5_piece0 on Dell-MAIN-A:49934 in memory (size: 1865.0 B, free: 59.8 GiB)
+14:06:52.372 [task-result-getter-0] INFO  - Finished task 7.0 in stage 11.0 (TID 72) in 397 ms on Dell-MAIN-A (executor driver) (2/8)
+14:06:52.378 [dispatcher-BlockManagerMaster] INFO  - Removed broadcast_8_piece0 on Dell-MAIN-A:49934 in memory (size: 4.2 KiB, free: 59.8 GiB)
+14:06:52.378 [dispatcher-BlockManagerMaster] INFO  - Removed broadcast_7_piece0 on Dell-MAIN-A:49934 in memory (size: 10.2 KiB, free: 59.8 GiB)
+14:06:52.415 [Executor task launch worker for task 2.0 in stage 11.0 (TID 67)] INFO  - Finished task 2.0 in stage 11.0 (TID 67). 1913 bytes result sent to driver
+14:06:52.417 [task-result-getter-1] INFO  - Finished task 2.0 in stage 11.0 (TID 67) in 539 ms on Dell-MAIN-A (executor driver) (3/8)
+14:06:52.425 [Executor task launch worker for task 6.0 in stage 11.0 (TID 71)] INFO  - Finished task 6.0 in stage 11.0 (TID 71). 1913 bytes result sent to driver
+14:06:52.425 [task-result-getter-3] INFO  - Finished task 6.0 in stage 11.0 (TID 71) in 467 ms on Dell-MAIN-A (executor driver) (4/8)
+14:06:52.440 [Executor task launch worker for task 1.0 in stage 11.0 (TID 66)] INFO  - Finished task 1.0 in stage 11.0 (TID 66). 1913 bytes result sent to driver
+14:06:52.440 [task-result-getter-2] INFO  - Finished task 1.0 in stage 11.0 (TID 66) in 579 ms on Dell-MAIN-A (executor driver) (5/8)
+14:06:52.461 [Executor task launch worker for task 3.0 in stage 11.0 (TID 68)] INFO  - Finished task 3.0 in stage 11.0 (TID 68). 1913 bytes result sent to driver
+14:06:52.464 [task-result-getter-0] INFO  - Finished task 3.0 in stage 11.0 (TID 68) in 571 ms on Dell-MAIN-A (executor driver) (6/8)
+14:06:52.464 [Executor task launch worker for task 0.0 in stage 11.0 (TID 65)] INFO  - Finished task 0.0 in stage 11.0 (TID 65). 1870 bytes result sent to driver
+14:06:52.464 [task-result-getter-1] INFO  - Finished task 0.0 in stage 11.0 (TID 65) in 634 ms on Dell-MAIN-A (executor driver) (7/8)
+14:06:52.468 [Executor task launch worker for task 4.0 in stage 11.0 (TID 69)] INFO  - Finished task 4.0 in stage 11.0 (TID 69). 1913 bytes result sent to driver
+14:06:52.468 [task-result-getter-3] INFO  - Finished task 4.0 in stage 11.0 (TID 69) in 554 ms on Dell-MAIN-A (executor driver) (8/8)
+14:06:52.472 [task-result-getter-3] INFO  - Removed TaskSet 11.0, whose tasks have all completed, from pool 
+14:06:52.472 [dag-scheduler-event-loop] INFO  - ShuffleMapStage 11 (mapPartitions at GraphImpl.scala:207) finished in 0,651 s
+14:06:52.472 [dag-scheduler-event-loop] INFO  - looking for newly runnable stages
+14:06:52.472 [dag-scheduler-event-loop] INFO  - running: HashSet()
+14:06:52.472 [dag-scheduler-event-loop] INFO  - waiting: HashSet(ResultStage 12)
+14:06:52.472 [dag-scheduler-event-loop] INFO  - failed: HashSet()
+14:06:52.475 [dag-scheduler-event-loop] INFO  - Submitting ResultStage 12 (VertexRDDImpl[54] at RDD at VertexRDD.scala:57), which has no missing parents
+14:06:52.475 [dag-scheduler-event-loop] INFO  - Block broadcast_10 stored as values in memory (estimated size 9.6 KiB, free 59.8 GiB)
+14:06:52.481 [dag-scheduler-event-loop] INFO  - Block broadcast_10_piece0 stored as bytes in memory (estimated size 4.8 KiB, free 59.8 GiB)
+14:06:52.481 [dispatcher-BlockManagerMaster] INFO  - Added broadcast_10_piece0 in memory on Dell-MAIN-A:49934 (size: 4.8 KiB, free: 59.8 GiB)
+14:06:52.481 [dag-scheduler-event-loop] INFO  - Created broadcast 10 from broadcast at DAGScheduler.scala:1580
+14:06:52.484 [dag-scheduler-event-loop] INFO  - Submitting 1 missing tasks from ResultStage 12 (VertexRDDImpl[54] at RDD at VertexRDD.scala:57) (first 15 tasks are for partitions Vector(0))
+14:06:52.484 [dag-scheduler-event-loop] INFO  - Adding task set 12.0 with 1 tasks resource profile 0
+14:06:52.484 [dispatcher-event-loop-6] INFO  - Starting task 0.0 in stage 12.0 (TID 73) (Dell-MAIN-A, executor driver, partition 0, PROCESS_LOCAL, 8108 bytes) 
+14:06:52.484 [Executor task launch worker for task 0.0 in stage 12.0 (TID 73)] INFO  - Running task 0.0 in stage 12.0 (TID 73)
+14:06:52.489 [Executor task launch worker for task 0.0 in stage 12.0 (TID 73)] INFO  - Found block rdd_39_0 locally
+14:06:52.489 [Executor task launch worker for task 0.0 in stage 12.0 (TID 73)] INFO  - Found block rdd_39_0 locally
+14:06:52.490 [Executor task launch worker for task 0.0 in stage 12.0 (TID 73)] INFO  - Getting 8 (399.2 KiB) non-empty blocks including 8 (399.2 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+14:06:52.490 [Executor task launch worker for task 0.0 in stage 12.0 (TID 73)] INFO  - Started 0 remote fetches in 0 ms
+14:06:52.556 [Executor task launch worker for task 0.0 in stage 12.0 (TID 73)] INFO  - Block rdd_53_0 stored as values in memory (estimated size 2.7 MiB, free 59.8 GiB)
+14:06:52.556 [dispatcher-BlockManagerMaster] INFO  - Added rdd_53_0 in memory on Dell-MAIN-A:49934 (size: 2.7 MiB, free: 59.8 GiB)
+14:06:52.556 [Executor task launch worker for task 0.0 in stage 12.0 (TID 73)] INFO  - 2 block locks were not released by task 0.0 in stage 12.0 (TID 73)
+[rdd_53_0, rdd_39_0]
+14:06:52.564 [Executor task launch worker for task 0.0 in stage 12.0 (TID 73)] INFO  - Finished task 0.0 in stage 12.0 (TID 73). 2086 bytes result sent to driver
+14:06:52.564 [task-result-getter-2] INFO  - Finished task 0.0 in stage 12.0 (TID 73) in 80 ms on Dell-MAIN-A (executor driver) (1/1)
+14:06:52.564 [task-result-getter-2] INFO  - Removed TaskSet 12.0, whose tasks have all completed, from pool 
+14:06:52.564 [dag-scheduler-event-loop] INFO  - ResultStage 12 (lookup at RandomWalk.scala:57) finished in 0,089 s
+14:06:52.564 [dag-scheduler-event-loop] INFO  - Job 2 is finished. Cancelling potential speculative or zombie tasks for this job
+14:06:52.564 [dag-scheduler-event-loop] INFO  - Killing all running tasks in stage 12: Stage finished
+14:06:52.564 [main] INFO  - Job 2 finished: lookup at RandomWalk.scala:57, took 1,131587 s
+14:06:52.584 [main] INFO  - SparkContext is stopping with exitCode 0.
+14:06:52.673 [main] INFO  - Stopped Spark@5aa0dbf4{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+14:06:52.695 [main] INFO  - Stopped Spark web UI at http://Dell-MAIN-A:4040
+14:06:52.775 [dispatcher-event-loop-4] INFO  - MapOutputTrackerMasterEndpoint stopped!
+14:06:53.066 [main] INFO  - MemoryStore cleared
+14:06:53.068 [main] INFO  - BlockManager stopped
+14:06:53.072 [main] INFO  - BlockManagerMaster stopped
+14:06:53.076 [dispatcher-event-loop-6] INFO  - OutputCommitCoordinator stopped!
+14:06:53.086 [main] INFO  - Successfully stopped SparkContext
+14:06:53.090 [shutdown-hook-0] INFO  - Shutdown hook called
+14:06:53.090 [shutdown-hook-0] INFO  - Deleting directory C:\Users\aless\AppData\Local\Temp\spark-d31cb7b4-4b5b-44a3-8899-b395fb5ade58
