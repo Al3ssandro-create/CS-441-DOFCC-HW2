@@ -65,4 +65,4 @@ Replace `your-spark-master-url` with your Spark master's URL and `your-jar-file.
 ## Additional Information
 - The program includes commented sections that indicate prior workflows and logic. These sections can be uncommented based on requirements.
 - Logging is facilitated through slf4j, ensuring detailed logs regarding the status of graph loading, shard creation, and MapReduce job execution.
-- If you need to convert your file into a json refer to: []
+- If you need to convert your file into a json refer to: https://github.com/Al3ssandro-create/NGSconverter/tree/main
