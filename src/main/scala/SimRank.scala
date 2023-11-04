@@ -1,14 +1,27 @@
 package com.lsc
-import NetGraphAlgebraDefs._
 import com.typesafe.config.{Config, ConfigFactory}
 import org.apache.spark.broadcast.Broadcast
 import org.apache.spark.graphx._
+/** Object containing the implementation of the SimRank algorithm for similarity computation.
+ *
+ * SimRank is a graph-based similarity measure. This implementation calculates the similarity between two nodes
+ * in a graph based on the similarity of their corresponding neighbors.
+ */
 object SimRank {
-  val config: Config = ConfigFactory.load()
+  val config: Config = ConfigFactory.load("h2.conf")
   private val depth = config.getInt("Spark-project.sim-rank.depth")
   private val C = config.getInt("Spark-project.sim-rank.C")
-  // SimRank algorithm
-  def simRankAlgorithm(broadcastNeighbors1: Broadcast[scala.collection.Map[VertexId, Array[(VertexId, NodeObject)]]], broadcastNeighbors2: Broadcast[scala.collection.Map[VertexId, Array[(VertexId, NodeObject)]]], node1: VertexId, node2: VertexId, depth: Int = depth): Double = {
+
+  /** Computes the SimRank similarity between two nodes.
+   *
+   * @param broadcastNeighbors1 Broadcast variable containing the neighbors map of the first graph.
+   * @param broadcastNeighbors2 Broadcast variable containing the neighbors map of the second graph.
+   * @param node1               The ID of the first node.
+   * @param node2               The ID of the second node.
+   * @param depth               The maximum depth of recursion, which limits the computational complexity.
+   * @return The similarity score between the two nodes, ranging from 0 to 1.
+   */
+  def simRankAlgorithm(broadcastNeighbors1: Broadcast[scala.collection.Map[VertexId, Array[(VertexId, CustomNode)]]], broadcastNeighbors2: Broadcast[scala.collection.Map[VertexId, Array[(VertexId, CustomNode)]]], node1: VertexId, node2: VertexId, depth: Int = depth): Double = {
 
     if (node1 == node2) return 1.0  // Similarity of a node to itself is 1
 
