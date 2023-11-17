@@ -1,0 +1,7 @@
+Student - Alessandro Martinolli
+
+=> 4/5 scalatests = -0.2%
+
+Good job! Your code is well designed. I would have liked to see all 5 scalatests implemented, which was something I provided feedback on in the last homework as well.
+
+Final Grade: 14.8%
